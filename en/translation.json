@@ -198,6 +198,7 @@
   "verification_date": "Verification date",
   "filename_of_verified_class": "Filename of the verified class",
   "filename": "Filename",
+  "function_that_allowed_you": "Functions that allow you to read the state.",
   "read_functions": "Read Functions",
   "functions_that_alter_state": "Functions that allow you to alter the state.",
   "write_functions": "Write Functions",
