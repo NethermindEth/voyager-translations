@@ -374,5 +374,13 @@
   "l2_block_number": "L2 Block Number",
   "contract_calls_tooltip_type": "(integer or hex, e.g.: 1 or 0x1)",
   "contract_calls_tooltip_array": "(an array - integers or hex e.g.: 333, 2, 7655 or 0x3, 0x1 or 333, 0x1)",
-  "contract_calls_validity_tip": "Please provide comma separated integers or hex e.g.: 333, 2, 7655 or 0x3, 0x1 or 333, 0x1"
+  "contract_calls_validity_tip": "Please provide comma separated integers or hex e.g.: 333, 2, 7655 or 0x3, 0x1 or 333, 0x1",
+  "tokens": "Tokens",
+  "tokens_tooltip": "Top tokens on Starknet",
+  "transfers": "Transfers",
+  "holders": "Holders",
+  "unable_locate_erc20_tokens": "Unable to locate ERC20 tokens",
+  "no_erc20_tokens_display": "No ERC20 tokens to display",
+  "unable_locate_erc721_tokens": "Unable to locate ERC721 tokens",
+  "no_erc721_tokens_display": "No ERC721 tokens to display"
 }
