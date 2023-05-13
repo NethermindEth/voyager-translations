@@ -253,6 +253,7 @@
   "no_bridge_transactions_display": "No bridge transactions to display.",
   "this_contract_not_messages": "This contract does not have messages",
   "this_contract_not_events": "This contract does not have events",
+  "this_contract_not_class_history": "This contract does not have replaced classes",
   "contract_source_code_not": "Contract source code is not verified",
   "verify_source_code": "Verify Source Code",
   "name_given_to_contract": "Name given to the contract either during verification or assigned by the community",
