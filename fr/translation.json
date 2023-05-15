@@ -376,5 +376,14 @@
   "unable_locate_erc20_tokens": "Impossible de localiser les ERC20 jetons",
   "no_erc20_tokens_display": "Aucune ERC20 jetons à afficher",
   "unable_locate_erc721_tokens": "Impossible de localiser les ERC721 jetons",
-  "no_erc721_tokens_display": "Aucune ERC721 jetons à afficher"
+  "no_erc721_tokens_display": "Aucune ERC721 jetons à afficher",  
+  "account_calls": "Appels de compte",
+  "account_call": "Appel de compte",
+  "list_accountcall_on_starknet": "liste des appels de compte sur Starknet",
+  "calling_party_of_accountcall" : "Appelant du compte appel",
+  "called_party_of_accountcall" : "Appelé de l'appel de compte",
+  "unable_to_locate_accountcall": "Cet appel de compte est introuvable. Soit il n'a pas encore été reçu, soit changez le réseau sélectionné.",
+  "accountcall_id_block_number" : "ID d'appel de compte : numéro de bloc, index de transaction, index de trace",
+  "data_in_the_accountcall": "Données dans l'appel de compte",
+  "this_contract_not_accountcalls": "Ce contrat n'a pas d'appels de compte"
 }
