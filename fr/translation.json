@@ -384,5 +384,6 @@
   "called_party_of_accountcall" : "Appelé de l'appel de compte",
   "unable_to_locate_accountcall": "Cet appel de compte est introuvable. Soit il n'a pas encore été reçu, soit changez le réseau sélectionné.",
   "accountcall_id_block_number" : "ID d'appel de compte : numéro de bloc, index de transaction, index de trace",
-  "data_in_the_accountcall": "Données dans l'appel de compte"
+  "data_in_the_accountcall": "Données dans l'appel de compte",
+  "this_contract_not_accountcalls": "Ce contrat n'a pas d'appels de compte"
 }

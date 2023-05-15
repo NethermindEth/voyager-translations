@@ -390,5 +390,6 @@
   "calling_party_of_accountcall" : "Calling party of account call",
   "called_party_of_accountcall" : "Called party of account call",
   "accountcall_id_block_number" : "Account call ID: block number, transaction index, trace index",
-  "unable_to_locate_accountcall": "This account call has not been found. Either it hasn't been received yet or change the selected network."
+  "unable_to_locate_accountcall": "This account call has not been found. Either it hasn't been received yet or change the selected network.",
+  "this_contract_not_accountcalls": "This contract does not have account calls"
 }
