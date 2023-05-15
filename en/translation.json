@@ -382,5 +382,13 @@
   "unable_locate_erc20_tokens": "Unable to locate ERC20 tokens",
   "no_erc20_tokens_display": "No ERC20 tokens to display",
   "unable_locate_erc721_tokens": "Unable to locate ERC721 tokens",
-  "no_erc721_tokens_display": "No ERC721 tokens to display"
+  "no_erc721_tokens_display": "No ERC721 tokens to display",
+  "account_calls": "Account Calls",
+  "account_call": "Account Call",
+  "list_accountcall_on_starknet": "A list of account calls on Starknet",
+  "data_in_the_accountcall": "Data in the account call",
+  "calling_party_of_accountcall" : "Calling party of account call",
+  "called_party_of_accountcall" : "Called party of account call",
+  "accountcall_id_block_number" : "Account call ID: block number, transaction index, trace index",
+  "unable_to_locate_accountcall": "This account call has not been found. Either it hasn't been received yet or change the selected network."
 }
