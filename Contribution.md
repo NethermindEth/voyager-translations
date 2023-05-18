@@ -58,3 +58,5 @@ Steps to Contribute
   - This is the final step to make your contribution to be included in the translations.
   - Creating a PR is simple, You navigate to your branch in the github repository page.
   - Then Click `Contribute` and then `Open a pull request` to the `main` repository
+
+You can also refer here to this article on [How to Contribute to Projects on Github](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
