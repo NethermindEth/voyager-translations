@@ -396,5 +396,7 @@
   "holder": "Holder",
   "unable_to_locate_holders": "Unable to locate token holders",
   "this_token_no_holders": "No token holders to display",
-  "token_id": "Token Id"
+  "token_id": "Token Id",
+  "uninitialized_contract": "Uninitialized Contract",
+  "uninitialized": "Uninitialized"
 }
