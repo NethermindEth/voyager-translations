@@ -389,5 +389,7 @@
   "holder": "Détenteur",
   "unable_to_locate_holders": "Impossible de localiser les détenteurs de jetons",
   "this_token_no_holders": "Aucun détenteur de jeton à afficher",
-  "token_id": "Identifiant du jeton"
+  "token_id": "Identifiant du jeton",
+  "uninitialized_contract": "Contrat non initialisé",
+  "uninitialized": "Non initialisé"
 }
