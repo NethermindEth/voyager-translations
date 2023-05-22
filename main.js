@@ -29,19 +29,23 @@ const main = () => {
     });
     const targetKeys = Object.keys(JSON.parse(enData));
 
-    const files = getFiles(".");
+    const files = getFiles(".");    
 
     files.forEach((file) => {
         if (file != enPath) {
-            const data = fs.readFileSync(file, {
-                encoding: "utf-8"
-            });
-            const thisLang = JSON.parse(data);
-            const thisLangKeys = Object.keys(thisLang);
-            let not_included = targetKeys.filter((t_key) => !thisLangKeys.includes(t_key));
-            console.warn(file)
-            console.warn("This Locales doesn't have following Keys:")
-            console.warn(not_included)
+            try {
+                const data = fs.readFileSync(file, {
+                    encoding: "utf-8"
+                });
+                const thisLang = JSON.parse(data);
+                const thisLangKeys = Object.keys(thisLang);
+                let not_included = targetKeys.filter((t_key) => !thisLangKeys.includes(t_key));
+                console.warn(file)
+                console.warn("This Locales doesn't have following Keys:")
+                console.warn(not_included)
+            } catch (e) {
+                console.error(e);
+            }
         }
     })
 }
