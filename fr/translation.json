@@ -393,5 +393,7 @@
   "token_id": "Identifiant du jeton",
   "last_transfer": "Dernier transfert",
   "uninitialized_contract": "Contrat non initialisé",
-  "uninitialized": "Non initialisé"
+  "uninitialized": "Non initialisé",
+  "unable_to_locate_interaction": "Cette interaction n'a pas été trouvée. Soit il n'a pas encore été reçu, soit changez le réseau sélectionné.",
+  "this_contract_not_interactions" : "Ce contrat n'a pas d'interactions"
 }

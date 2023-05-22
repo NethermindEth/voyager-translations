@@ -400,5 +400,7 @@
   "token_id": "Token Id",
   "last_transfer": "Last Transfer",
   "uninitialized_contract": "Uninitialized Contract",
-  "uninitialized": "Uninitialized"
+  "uninitialized": "Uninitialized",
+  "unable_to_locate_interaction": "This interaction has not been found. Either it hasn't been received yet or change the selected network.",
+  "this_contract_not_interactions" : "This contract does not have interactions"
 }
