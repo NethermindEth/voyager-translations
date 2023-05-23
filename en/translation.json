@@ -399,6 +399,8 @@
   "token_holders": "Token Holders",
   "unable_to_locate_holders": "Unable to locate token holders",
   "this_token_no_holders": "No token holders to display",
+  "unable_to_locate_transfers": "Unable to locate token transfers",
+  "this_contract_no_token_transfers": "No token transfers to display",
   "token_id": "Token Id",
   "last_transfer": "Last Transfer",
   "uninitialized_contract": "Uninitialized Contract",
