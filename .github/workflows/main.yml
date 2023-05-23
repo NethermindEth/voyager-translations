@@ -1,0 +1,17 @@
+name: Testing Keys
+on:
+  push:
+  pull_request:
+    branches: [main]
+jobs:
+    test_keys:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+            - name: Run a simple diff check
+              uses: actions/setup-node@v3
+              with:
+                node-version: 18
+            - name: Diff Keys
+              run: node main.js
