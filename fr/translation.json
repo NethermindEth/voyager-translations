@@ -390,6 +390,8 @@
   "token_holders": "Jeton Détenteurs",
   "unable_to_locate_holders": "Impossible de localiser les détenteurs de jetons",
   "this_token_no_holders": "Aucun détenteur de jeton à afficher",
+  "unable_to_locate_transfers": "Impossible de localiser les transferts de jetons",
+  "this_contract_no_token_transfers": "Aucun transferts de jeton à afficher",  
   "token_id": "Identifiant du jeton",
   "last_transfer": "Dernier transfert",
   "uninitialized_contract": "Contrat non initialisé",
