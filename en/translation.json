@@ -384,6 +384,8 @@
   "no_erc20_tokens_display": "No ERC20 tokens to display",
   "unable_locate_erc721_tokens": "Unable to locate ERC721 tokens",
   "no_erc721_tokens_display": "No ERC721 tokens to display",
+  "latest_blog_posts": "Latest blog posts",
+  "read_our_blog": "Read our blog",
   "account_calls": "Account Calls",
   "account_call": "Account Call",
   "list_accountcall_on_starknet": "A list of account calls on Starknet",
