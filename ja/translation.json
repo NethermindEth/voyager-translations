@@ -397,6 +397,8 @@
   "token_holders": "トークン所有者",
   "unable_to_locate_holders": "トークン所有者が見つかりません",
   "this_token_no_holders": "表示するトークン所有者がありません",
+  "unable_to_locate_transfers": "トークン転送が見つかりません",
+  "this_contract_no_token_transfers": "表示するトークン転送がありません",
   "token_id": "トークン ID",
   "last_transfer": "最後の転送",
   "uninitialized_contract": "初期化されていないコントラクト",
