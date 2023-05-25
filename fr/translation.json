@@ -385,5 +385,9 @@
   "unable_to_locate_accountcall": "Cet appel de compte est introuvable. Soit il n'a pas encore été reçu, soit changez le réseau sélectionné.",
   "accountcall_id_block_number" : "ID d'appel de compte : numéro de bloc, index de transaction, index de trace",
   "data_in_the_accountcall": "Données dans l'appel de compte",
-  "this_contract_not_accountcalls": "Ce contrat n'a pas d'appels de compte"
+  "this_contract_not_accountcalls": "Ce contrat n'a pas d'appels de compte",
+  "execution_steps": "Étapes d'exécution",
+  "steps_used_in_block": "Nombre total d'étapes utilisées dans le bloc",
+  "execution_resources": "Ressources d'exécution",
+  "resources_utilized_execute_transaction": "Ressources utilisées pour exécuter la transaction"
 }
