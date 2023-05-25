@@ -408,5 +408,7 @@
   "gas_consumed_calculated_when": "Gaz consommé pour l'exécution de la transaction",
   "starknet_version": "Version Starknet",
   "latest_blog_posts": "Derniers articles de blog",
-  "read_our_blog": "Lire notre blog"
+  "read_our_blog": "Lire notre blog",
+  "contribute" : "Contribuer",
+  "contribute_to_translations" : "aux traductions"
 }
