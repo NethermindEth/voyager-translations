@@ -420,5 +420,7 @@
   "time_at_which_class": "クラスが宣言された時刻",
   "license_under_which_verification": "検証が行われたライセンス。",
   "latest_blog_posts": "最新のブログ投稿",
-  "read_our_blog": "私たちのブログを読む"
+  "read_our_blog": "私たちのブログを読む",
+  "contribute" : "貢献する",
+  "contribute_to_translations" : ",翻訳に"
 }
