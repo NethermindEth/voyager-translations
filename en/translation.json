@@ -417,5 +417,6 @@
   "unable_to_locate_interaction": "This interaction has not been found. Either it hasn't been received yet or change the selected network.",
   "this_contract_not_interactions" : "This contract does not have interactions",
   "contribute" : "Contribute",
-  "contribute_to_translations" : "to the translations!"
+  "contribute_to_translations" : "to the translations!",
+  "language_select" : "SELECT YOUR LANGUAGE"
 }

@@ -422,5 +422,6 @@
   "latest_blog_posts": "最新のブログ投稿",
   "read_our_blog": "私たちのブログを読む",
   "contribute" : "貢献する",
-  "contribute_to_translations" : ",翻訳に"
+  "contribute_to_translations" : ",翻訳に",
+  "language_select" : "言語を選択する"
 }
