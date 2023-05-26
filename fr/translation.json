@@ -417,5 +417,6 @@
   "latest_blog_posts": "Derniers articles de blog",
   "read_our_blog": "Lire notre blog",
   "contribute" : "Contribuer",
-  "contribute_to_translations" : "aux traductions"
+  "contribute_to_translations" : "aux traductions",
+  "language_select" : "CHOISISSEZ VOTRE LANGUE"
 }
