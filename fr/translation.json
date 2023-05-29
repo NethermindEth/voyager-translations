@@ -418,5 +418,8 @@
   "read_our_blog": "Lire notre blog",
   "contribute" : "Contribuer",
   "contribute_to_translations" : "aux traductions",
-  "language_select" : "CHOISISSEZ VOTRE LANGUE"
+  "language_select" : "CHOISISSEZ VOTRE LANGUE",
+  "from_class_hash": "De la classe",
+  "to_class_hash": "Vers la classe",
+  "replaced_date": "Date remplacée"
 }
