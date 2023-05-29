@@ -423,5 +423,8 @@
   "read_our_blog": "私たちのブログを読む",
   "contribute" : "貢献する",
   "contribute_to_translations" : ",翻訳に",
-  "language_select" : "言語を選択する"
+  "language_select" : "言語を選択する",
+  "from_class_hash": "クラスから",
+  "to_class_hash": "クラスへ",
+  "replaced_date": "置換された日付"
 }
