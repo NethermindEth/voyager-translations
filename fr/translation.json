@@ -459,6 +459,6 @@
   "time_between_accepted_l2": "Temps entre chaque bloc 'Accepté-sur-L2' (moyenne de 7 jours)",
   "accounts_created_today": "Contrats de compte créés aujourd'hui",
   "number_sps_today": "Nombre de pas au Caire par seconde aujourd'hui",
-  "number_spb_today": "Nombre d'étapes du caire par bloc aujourd'hui",
-  "total_cairo_steps": "Nombre total d'étapes du caire utilisées"
+  "number_spb_today": "Nombre d'étapes du Caire par bloc aujourd'hui",
+  "total_cairo_steps": "Nombre total d'étapes du CSaire utilisées"
 }
