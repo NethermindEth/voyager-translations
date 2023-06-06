@@ -388,7 +388,7 @@
   "unable_locate_erc721_tokens": "ERC721 토큰을 찾을 수 없습니다.",
   "no_erc721_tokens_display": "표시할 ERC721 토큰 없음",
   "latest_blog_posts": "최신 블로그 게시물",
-   "read_our_blog": "저희 블로그 읽기",
+  "read_our_blog": "저희 블로그 읽기",
   "account_calls": "계정 호출",
   "account_call": "계정 호출",
   "list_accountcall_on_starknet": "Starknet의 계정 호출 목록",
@@ -460,5 +460,14 @@
   "accounts_created_today": "오늘 생성된 계정 계약",
   "number_sps_today": "오늘 초당 카이로 걸음 수",
   "number_spb_today": "오늘 블록당 카이로 걸음 수",
-  "total_cairo_steps": "사용된 총 카이로 단계"
+  "total_cairo_steps": "사용된 총 카이로 단계",
+  "blockchain": "블록체인",
+  "developer": "개발자",
+  "top_tokens": "탑 토큰",
+  "active_contracts": "활성 계약",
+  "verify_contract_class": "계약/클래스 확인",
+  "cli_github_verifier": "CLI Github 검증자",
+  "buy_with_ramp": "램프로 구매",
+  "buy_with_banxa": "Banxa로 구매",
+  "starkcet": "스타크셋"
 }
