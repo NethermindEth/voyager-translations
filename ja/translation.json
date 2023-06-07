@@ -474,5 +474,9 @@
   "cli_github_verifier": "CLI Github ベリファイアー",
   "buy_with_ramp": "ランプで購入する",
   "buy_with_banxa": "Banxa で購入する",
-  "starkcet": "スターケット"
+  "starkcet": "スターケット",
+  "backlog": "Backlog",
+  "avg_txns_queue_today": "Daily average of transactions in queue",
+  "avg_queue_delay_today": "Daily average of queue delay",
+  "avg_queue_time_today": "Daily average of queue time"
 }

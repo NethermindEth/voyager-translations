@@ -469,5 +469,9 @@
   "cli_github_verifier": "CLI Github 검증자",
   "buy_with_ramp": "램프로 구매",
   "buy_with_banxa": "Banxa로 구매",
-  "starkcet": "스타크셋"
+  "starkcet": "스타크셋",
+  "backlog": "Backlog",
+  "avg_txns_queue_today": "Daily average of transactions in queue",
+  "avg_queue_delay_today": "Daily average of queue delay",
+  "avg_queue_time_today": "Daily average of queue time"
 }
