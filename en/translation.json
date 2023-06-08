@@ -474,5 +474,6 @@
   "backlog": "Backlog",
   "avg_txns_queue_today": "Daily average of transactions in queue",
   "avg_queue_delay_today": "Daily average of queue delay",
-  "avg_queue_time_today": "Daily average of queue time"
+  "avg_queue_time_today": "Daily average of queue time",
+  "cairo_book": "The Cairo Book"
 }
