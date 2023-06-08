@@ -474,5 +474,6 @@
   "backlog": "Arriéré",
   "avg_txns_queue_today": "Moyenne quotidienne des transactions en file d'attente",
   "avg_queue_delay_today": "Moyenne quotidienne du retard de la file d'attente",
-  "avg_queue_time_today": "Moyenne quotidienne du temps d'attente"
+  "avg_queue_time_today": "Moyenne quotidienne du temps d'attente",
+  "cairo_book": "Le livre du Caire"
 }
