@@ -388,6 +388,7 @@
   "unable_locate_erc721_tokens": "ERC721 토큰을 찾을 수 없습니다",
   "no_erc721_tokens_display": "표시할 ERC721 토큰이 없습니다",
   "latest_blog_posts": "최신 블로그 글",
+  "featured_content": "주요 콘텐츠",
   "read_our_blog": "블로그 읽기",
   "account_calls": "계정 호출",
   "account_call": "계정 호출",
@@ -460,5 +461,19 @@
   "accounts_created_today": "오늘 생성된 계정 컨트랙트 수",
   "number_sps_today": "오늘의 초당 Cairo 스텝 수",
   "number_spb_today": "오늘의 블록당 Cairo 스텝 수",
-  "total_cairo_steps": "사용된 총 Cairo 스텝 수"
+  "total_cairo_steps": "사용된 총 Cairo 스텝 수",
+  "blockchain": "블록체인",
+  "developer": "개발자",
+  "top_tokens": "인기 토큰",
+  "active_contracts": "활성 계약",
+  "verify_contract_class": "계약/클래스 검증",
+  "cli_github_verifier": "Github CLI 검증기",
+  "buy_with_ramp": "Ramp로 구매하기",
+  "buy_with_banxa": "Banxa로 구매하기",
+  "starkcet": "Starkcet",
+  "backlog": "백로그",
+  "avg_txns_queue_today": "오늘의 트랜잭션 대기 평균",
+  "avg_queue_delay_today": "오늘의 대기 지연 평균",
+  "avg_queue_time_today": "오늘의 대기 시간 평균",
+  "cairo_book": "The Cairo Book"
 }
