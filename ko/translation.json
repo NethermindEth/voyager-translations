@@ -90,7 +90,7 @@
   "list_of_messages_starknet": "스타크넷 메시지 목록",
   "alternatively_you_can_find": "더 많은 기능과 빠른 속도를 지원하는 우리의 CLI 검증 도구는",
   "here": "여기에서",
-  "for_even_greater_functionality":"찾을 수 있습니다!",
+  "for_even_greater_functionality": "찾을 수 있습니다!",
   "verify_and_publish_class": "클래스 소스 코드 인증 및 게시",
   "source_code_verification_provides": "소스 코드 확인은 스마트 계약 및 클래스와 상호 작용하는 사용자에게 투명성을 제공합니다. 소스 코드를 업로드하면 컴파일된 코드가 블록체인의 코드와 일치합니다.",
   "a_smart_contract_should": "\"스마트 계약\"은 최종 사용자에게 \"디지털 서명\"에 대한 정보를 제공하고 사용자가 코드를 감사하여 실제로 수행해야 하는 작업을 수행하는지 확인할 수 있는 기회를 제공해야 합니다. ",
@@ -475,5 +475,6 @@
   "avg_txns_queue_today": "오늘의 트랜잭션 대기 평균",
   "avg_queue_delay_today": "오늘의 대기 지연 평균",
   "avg_queue_time_today": "오늘의 대기 시간 평균",
-  "cairo_book": "The Cairo Book"
+  "cairo_book": "The Cairo Book",
+  "estimated_tx_time": "Estimated Transaction Time"
 }
