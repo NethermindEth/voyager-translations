@@ -475,5 +475,6 @@
   "avg_txns_queue_today": "Số giao dịch trung bình trong hàng chờ hàng ngày",
   "avg_queue_delay_today": "Độ trễ hàng chờ trung bình hàng ngày",
   "avg_queue_time_today": "Thời gian hàng chờ trung bình hàng ngày",
-  "cairo_book": "The Cairo Book"
+  "cairo_book": "The Cairo Book",
+  "estimated_tx_time": "Estimated Transaction Time"
 }
