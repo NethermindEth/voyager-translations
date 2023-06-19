@@ -472,9 +472,9 @@
   "buy_with_banxa": "Banxa로 구매하기",
   "starkcet": "Starkcet",
   "backlog": "백로그",
-  "avg_txns_queue_today": "오늘의 트랜잭션 대기 평균",
-  "avg_queue_delay_today": "오늘의 대기 지연 평균",
-  "avg_queue_time_today": "오늘의 대기 시간 평균",
+  "txns_in_backlog": "Number of transactions in backlog",
+  "oldest_backlog_tx_age": "Oldest transaction age in backlog",
+  "tx_time_accepted_l2": "Estimated time for a transaction to get accepted on L2 block",
   "cairo_book": "The Cairo Book",
   "estimated_tx_time": "Estimated Transaction Time"
 }
