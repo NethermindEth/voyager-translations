@@ -472,9 +472,9 @@
   "buy_with_banxa": "Acheter avec Banxa",
   "starkcet": "Starkçet",
   "backlog": "Arriéré",
-  "avg_txns_queue_today": "Moyenne quotidienne des transactions en file d'attente",
-  "avg_queue_delay_today": "Moyenne quotidienne du retard de la file d'attente",
-  "avg_queue_time_today": "Moyenne quotidienne du temps d'attente",
+  "txns_in_backlog": "Nombre de transactions en attente",
+  "oldest_backlog_tx_age": "Âge de transaction le plus ancien dans le backlog",
+  "tx_time_accepted_l2": "Temps estimé pour qu'une transaction soit acceptée sur le bloc L2",
   "cairo_book": "Le livre du Caire",
   "estimated_tx_time": "Temps de transaction estimé"
 }
