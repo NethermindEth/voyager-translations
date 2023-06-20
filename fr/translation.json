@@ -476,5 +476,10 @@
   "oldest_backlog_tx_age": "Âge de transaction le plus ancien dans le backlog",
   "tx_time_accepted_l2": "Temps estimé pour qu'une transaction soit acceptée sur le bloc L2",
   "cairo_book": "Le livre du Caire",
-  "estimated_tx_time": "Temps de transaction estimé"
+  "estimated_tx_time": "Temps de transaction estimé",
+  "active_users": "Utilisateurs actifs",
+  "protocol_leaderboard": "Classement du protocole",
+  "list_top_100_protocols": "Une liste des 100 meilleurs protocoles sur Starknet",
+  "unable_locate_protocol_leaderboard": "Impossible de localiser le classement du protocole",
+  "no_protocol_leaderboard_display": "Aucun classement de protocole à afficher"
 }
