@@ -478,8 +478,8 @@
   "cairo_book": "Le livre du Caire",
   "estimated_tx_time": "Temps de transaction estimé",
   "active_users": "Utilisateurs actifs",
-  "protocol_leaderboard": "Classement du protocole",
+  "protocol_leaderboard": "Classement des protocoles",
   "list_top_100_protocols": "Une liste des 100 meilleurs protocoles sur Starknet",
-  "unable_locate_protocol_leaderboard": "Impossible de localiser le classement du protocole",
-  "no_protocol_leaderboard_display": "Aucun classement de protocole à afficher"
+  "unable_locate_protocol_leaderboard": "Impossible de localiser le classement des protocoles",
+  "no_protocol_leaderboard_display": "Aucun classement de protocoles à afficher"
 }
