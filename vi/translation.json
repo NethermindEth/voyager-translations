@@ -466,6 +466,7 @@
   "developer": "Nhà phát triển",
   "top_tokens": "Các Token hàng đầu",
   "active_contracts": "Hợp đồng Hoạt động",
+  "active_users_tooltip": "Danh sách các tài khoản phổ biến nhất trên Starknet",
   "verify_contract_class": "Xác minh Hợp đồng/Lớp",
   "cli_github_verifier": "Xác minh CLI Github",
   "buy_with_ramp": "Mua với Ramp",

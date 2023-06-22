@@ -466,6 +466,7 @@
   "developer": "Разработчик",
   "top_tokens": "Топ токены",
   "active_contracts": "Активные контракты",
+  "active_users_tooltip": "Список самых популярных аккаунтов в Starknet",
   "verify_contract_class": "Проверить контракт/класс",
   "cli_github_verifier": "CLI Github Verifier",
   "buy_with_ramp": "Купить через Ramp",

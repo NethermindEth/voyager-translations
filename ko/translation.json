@@ -466,6 +466,7 @@
   "developer": "개발자",
   "top_tokens": "인기 토큰",
   "active_contracts": "활성 계약",
+  "active_users_tooltip": "A list of the most popular accounts on Starknet",
   "verify_contract_class": "계약/클래스 검증",
   "cli_github_verifier": "Github CLI 검증기",
   "buy_with_ramp": "Ramp로 구매하기",
