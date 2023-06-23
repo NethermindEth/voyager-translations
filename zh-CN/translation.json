@@ -217,7 +217,7 @@
   "attribution_this_uses": "归因：这里使用",
   "thoth": "Thoth",
   "the_cairo_bytecode_analyser": "Cario/Starknet 字节码分析器, 反汇编器和反编译器创建、维护方为：",
-  "fuzzinglabs": "模糊实验室",
+  "fuzzinglabs": "FuzzingLabs",
   "txn_count": "交易数量",
   "unable_to_locate_contract": "无法找到类的合约",
   "this_class_no_contracts": "这个类没有合约",
