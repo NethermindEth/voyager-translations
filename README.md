@@ -15,3 +15,4 @@
 ## Current languages (Languages which are translated)
 - English (en)
 - French (fr)
+- Spanish (es)
