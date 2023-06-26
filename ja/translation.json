@@ -471,6 +471,7 @@
   "developer": "デベロッパー",
   "top_tokens": "トップトークン",
   "active_contracts": "アクティブな契約",
+  "active_users_tooltip": "Starknet で最も人気のあるアカウントのリスト",
   "verify_contract_class": "契約/クラスの確認",
   "cli_github_verifier": "CLI Github ベリファイアー",
   "buy_with_ramp": "ランプで購入する",
