@@ -15,4 +15,5 @@
 ## Current languages (Languages which are translated)
 - English (en)
 - French (fr)
+- Korean (ko)
 - Spanish (es)
