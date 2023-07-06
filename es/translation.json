@@ -482,5 +482,6 @@
   "protocol_leaderboard": "Tabla de posiciones de protocolos",
   "list_top_100_protocols": "Una lista de los 100 principales protocolos en Starknet",
   "unable_locate_protocol_leaderboard": "No se puede ubicar la tabla de posiciones de protocolos",
-  "no_protocol_leaderboard_display": "No hay tabla de posiciones de protocolos para mostrar"
+  "no_protocol_leaderboard_display": "No hay tabla de posiciones de protocolos para mostrar",
+  "tps_daily_timeframe": "Number of transactions per second (TPS) on daily timeframe"
 }

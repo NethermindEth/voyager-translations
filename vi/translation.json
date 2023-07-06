@@ -482,5 +482,6 @@
   "protocol_leaderboard": "Protocols Leaderboard",
   "list_top_100_protocols": "A list of top 100 protocols on Starknet",
   "unable_locate_protocol_leaderboard": "Unable to locate protocols leaderboard",
-  "no_protocol_leaderboard_display": "No protocols leaderboard to display"
+  "no_protocol_leaderboard_display": "No protocols leaderboard to display",
+  "tps_daily_timeframe": "Number of transactions per second (TPS) on daily timeframe"
 }
