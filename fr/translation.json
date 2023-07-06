@@ -483,5 +483,20 @@
   "list_top_100_protocols": "Une liste des 100 meilleurs protocoles sur Starknet",
   "unable_locate_protocol_leaderboard": "Impossible de localiser le classement des protocoles",
   "no_protocol_leaderboard_display": "Aucun classement de protocoles à afficher",
-  "tps_daily_timeframe": "Nombre de transactions par seconde (TPS) sur la plage horaire quotidienne"
+  "tps_daily_timeframe": "Nombre de transactions par seconde (TPS) sur la plage horaire quotidienne",
+  "tpb_daily_timeframe": "Nombre de transactions par bloc (TPB) sur la période quotidienne",
+  "usdc_transfer_fee_daily": "Frais de transfert d'USDC vers un compte Starknet sur une période quotidienne",
+  "eth_transfer_fee_daily": "Frais de transfert d'ETH vers un compte Starknet sur une période quotidienne",
+  "swap_fee_daily": "Frais d'échange d'actifs sur Starknet en utilisant My Swap sur une période quotidienne",
+  "nft_mint_fee_daily": "Frais de frappe NFT sur Starknet en utilisant Mint Square sur une période quotidienne",
+  "verification_cost_daily": "Daily average of total fee paid to verify a particular L2 block",
+  "block_fee_daily": "Moyenne quotidienne des frais réels totaux de toutes les transactions d'un bloc",
+  "gas_used_daily": "Moyenne quotidienne du gaz total utilisé par toutes les transactions d'un bloc",
+  "proof_time_daily": "Moyenne quotidienne du temps entre l'état d'attente d'un bloc et 'Accepté-sur-L1'",
+  "l1_block_latency_daily": "Moyenne quotidienne du temps entre chaque bloc 'Accepté-sur-L1'",
+  "l2_block_latency_daily": "Moyenne quotidienne du temps entre chaque bloc 'Accepté-sur-L2'",
+  "bridge_deposit_fee": "Frais de dépôt relais",
+  "bridge_withdrawal_fee": "Frais de retrait provisoire",
+  "bridge_deposit_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds d'Ethereum à Starknet",
+  "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum"
 }

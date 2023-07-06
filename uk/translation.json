@@ -483,5 +483,20 @@
   "unable_locate_protocol_leaderboard": "Таблиця лідерів протоколів відсутня",
   "no_protocol_leaderboard_display": "Відсутня таблиця лідерів протоколів для відображення",
   "active_users_tooltip": "A list of the most popular accounts on Starknet",
-  "tps_daily_timeframe": "Number of transactions per second (TPS) on daily timeframe"
+  "tps_daily_timeframe": "Number of transactions per second (TPS) on daily timeframe",
+  "tpb_daily_timeframe": "Number of transactions per block (TPB) on daily timeframe",
+  "usdc_transfer_fee_daily": "Fee of transferring USDC to a Starknet account on daily timeframe",
+  "eth_transfer_fee_daily": "Fee of transferring ETH to a Starknet account on daily timeframe",
+  "swap_fee_daily": "Fee of swapping assets on Starknet using My Swap on daily timeframe",
+  "nft_mint_fee_daily": "Fee of minting NFT on Starknet using Mint Square on daily timeframe",
+  "verification_cost_daily": "Daily average of total fee paid to verify a particular L2 block",
+  "block_fee_daily": "Daily average of total actual fee of all transactions in a block",
+  "gas_used_daily": "Daily average of total gas used by all transactions in a block",
+  "proof_time_daily": "Daily average of time between one block's pending state and 'Accepted-on-L1'",
+  "l1_block_latency_daily": "Daily average of time between each block's 'Accepted-on-L1'",
+  "l2_block_latency_daily": "Daily average of time between each block's 'Accepted-on-L2'",
+  "bridge_deposit_fee": "Bridge Deposit Fee",
+  "bridge_withdrawal_fee": "Bridge Withdrawal Fee",
+  "bridge_deposit_fee_daily": "Daily average of total fee of transferring funds from Ethereum to Starknet",
+  "bridge_withdrawal_fee_daily": "Daily average of total fee of transferring funds from Starknet to Ethereum"
 }
