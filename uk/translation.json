@@ -472,9 +472,9 @@
   "buy_with_banxa": "Купити з Banxa",
   "starkcet": "Starkcet",
   "backlog": "Backlog",
-  "txns_in_backlog": "Кількість транзакцій в backlog",
-  "oldest_backlog_tx_age": "Настаріша транзакція в backlog",
-  "tx_time_accepted_l2": "Приблизний час, коли транзакція буде прийнята в L2-блоці",
+  "txns_in_backlog": "Кількість транзакцій в backlog (останній)",
+  "oldest_backlog_tx_age": "Настаріша транзакція в backlog (останній)",
+  "tx_time_accepted_l2": "Приблизний час, коли транзакція буде прийнята в L2-блоці (останній)",
   "cairo_book": "The Cairo Book",
   "estimated_tx_time": "Приблизний час транзакції",
   "active_users": "Активні користувачі",
@@ -482,5 +482,6 @@
   "list_top_100_protocols": "Список Топ-100 протоколів на Starknet",
   "unable_locate_protocol_leaderboard": "Таблиця лідерів протоколів відсутня",
   "no_protocol_leaderboard_display": "Відсутня таблиця лідерів протоколів для відображення",
-  "active_users_tooltip": "A list of the most popular accounts on Starknet"
+  "active_users_tooltip": "A list of the most popular accounts on Starknet",
+  "tps_daily_timeframe": "Number of transactions per second (TPS) on daily timeframe"
 }
