@@ -249,7 +249,7 @@
   "failure_code": "Код ошибки",
   "first_visit_date": "Дата первого визита",
   "this_contract_not_rejected": "В этом контракте нет отклоненных транзакций",
-  "unable_to_locate_bridge": "Не удалось найти bridge транзакции для адреса",
+  "unable_to_locate_bridge_for_address": "Не удалось найти bridge транзакции для адреса",
   "no_bridge_transactions_display": "Нет транзакций bridge для отображения.",
   "this_contract_not_messages": "У этого контракта нет сообщений",
   "this_contract_not_events": "У этого контракта нет событий",

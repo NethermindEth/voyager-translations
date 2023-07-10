@@ -249,7 +249,7 @@
   "failure_code": "失败的代码",
   "first_visit_date": "首次访问日期",
   "this_contract_not_rejected": "该合约没有被拒绝的交易",
-  "unable_to_locate_bridge": "无法找到地址的跨链交易",
+  "unable_to_locate_bridge_for_address": "无法找到地址的跨链交易",
   "no_bridge_transactions_display": "没有可显示的跨链交易。",
   "this_contract_not_messages": "该合约没有信息",
   "this_contract_not_events": "该合约没有事件",

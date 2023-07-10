@@ -249,7 +249,7 @@
   "failure_code": "실패 코드",
   "first_visit_date": "첫 방문 날짜",
   "this_contract_not_rejected": "이 컨트랙트에는 거부된 트랜잭션이 없습니다",
-  "unable_to_locate_bridge": "주소에 대한 브리지 트랜잭션을 찾을 수 없음",
+  "unable_to_locate_bridge_for_address": "주소에 대한 브리지 트랜잭션을 찾을 수 없음",
   "no_bridge_transactions_display": "표시할 브리지 트랜잭션이 없습니다.",
   "this_contract_not_messages": "이 컨트랙트에는 메시지가 없습니다",
   "this_contract_not_events": "이 컨트랙트에는 이벤트가 없습니다",

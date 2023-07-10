@@ -249,7 +249,7 @@
   "failure_code": "エラーコード",
   "first_visit_date": "最初の訪問日",
   "this_contract_not_rejected": "このコントラクトには拒否されたトランザクションがありません",
-  "unable_to_locate_bridge": "アドレスのブリッジトランザクションが見つかりません",
+  "unable_to_locate_bridge_for_address": "アドレスのブリッジトランザクションが見つかりません",
   "no_bridge_transactions_display": "表示するブリッジトランザクションはありません。",
   "this_contract_not_messages": "このコントラクトにはメッセージがありません",
   "this_contract_not_events": "このコントラクトにはイベントがありません",

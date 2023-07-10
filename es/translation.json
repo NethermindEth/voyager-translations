@@ -249,7 +249,7 @@
   "failure_code": "Código de fallo",
   "first_visit_date": "Fecha de primera visita",
   "this_contract_not_rejected": "Este contrato no tiene transacciones rechazadas",
-  "unable_to_locate_bridge": "No se pueden localizar transacciones de puente para la dirección",
+  "unable_to_locate_bridge_for_address": "No se pueden localizar transacciones de puente para la dirección",
   "no_bridge_transactions_display": "No hay transacciones de puente para mostrar.",
   "this_contract_not_messages": "Este contrato no tiene mensajes",
   "this_contract_not_events": "Este contrato no tiene eventos",

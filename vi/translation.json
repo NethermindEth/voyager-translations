@@ -249,7 +249,7 @@
   "failure_code": "Mã lỗi",
   "first_visit_date": "Ngày truy cập đầu tiên",
   "this_contract_not_rejected": "Hợp đồng này không có giao dịch bị từ chối",
-  "unable_to_locate_bridge": "Không thể xác định địa chỉ giao dịch bắc cầu",
+  "unable_to_locate_bridge_for_address": "Không thể xác định địa chỉ giao dịch bắc cầu",
   "no_bridge_transactions_display": "Không có giao dịch bắc cầu nào để hiển thị.",
   "this_contract_not_messages": "Hợp đồng này không có tin nhắn",
   "this_contract_not_events": "Hợp đồng này không có sự kiện",

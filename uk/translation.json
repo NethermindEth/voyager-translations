@@ -249,7 +249,7 @@
   "failure_code": "Код помилки",
   "first_visit_date": "День першого візиту",
   "this_contract_not_rejected": "Для контракта відсутні відхилені транзакції",
-  "unable_to_locate_bridge": "Не вдається знайти транзакції мосту для адреси",
+  "unable_to_locate_bridge_for_address": "Не вдається знайти транзакції мосту для адреси",
   "no_bridge_transactions_display": "Відсутні транзакції мосту для відображення.",
   "this_contract_not_messages": "Контракт не має повідомлень",
   "this_contract_not_events": "Контракт не має подій",

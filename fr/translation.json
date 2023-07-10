@@ -246,7 +246,7 @@
   "failure_code": "Code d'échec",
   "first_visit_date": "Date de première visite",
   "this_contract_not_rejected": "Ce contrat n'a pas de transactions rejetées",
-  "unable_to_locate_bridge": "Impossible de localiser les transactions du bridge pour l'adresse",
+  "unable_to_locate_bridge_for_address": "Impossible de localiser les transactions du bridge pour l'adresse",
   "no_bridge_transactions_display": "Aucune transaction du bridge à afficher.",
   "this_contract_not_messages": "Ce contrat n'a pas de messages",
   "this_contract_not_events": "Ce contrat n'a pas d'événements",
