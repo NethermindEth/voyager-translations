@@ -251,6 +251,7 @@
   "this_contract_not_rejected": "This contract does not have rejected transactions",
   "unable_to_locate_bridge_for_address": "Unable to locate bridge transactions for address",
   "unable_to_locate_bridge_for_txn": "Unable to locate bridge transactions for transaction",
+  "unable_to_locate_state_updates_for_txn": "Unable to locate state updates for transaction",
   "no_bridge_transactions_display": "No bridge transactions to display.",
   "this_contract_not_messages": "This contract does not have messages",
   "this_contract_not_events": "This contract does not have events",
