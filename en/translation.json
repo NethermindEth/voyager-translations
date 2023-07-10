@@ -375,6 +375,7 @@
   "time_which_transaction_processed": "Time at which the transaction was processed",
   "l1_transaction": "L1 Transaction",
   "message_hash": "Message Hash",
+  "message_data": "Message data",
   "state_updates": "State Updates",
   "l1_block_hash": "L2 Block Hash",
   "l2_block_number": "L2 Block Number",
