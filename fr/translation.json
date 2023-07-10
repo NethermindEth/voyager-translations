@@ -498,5 +498,6 @@
   "bridge_deposit_fee": "Frais de dépôt relais",
   "bridge_withdrawal_fee": "Frais de retrait provisoire",
   "bridge_deposit_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds d'Ethereum à Starknet",
-  "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum"
+  "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum",
+  "unable_to_locate_bridge_for_txn": "Unable to locate bridge transactions for transaction"
 }
