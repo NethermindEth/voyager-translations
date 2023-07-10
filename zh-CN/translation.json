@@ -502,5 +502,6 @@
   "bridge_withdrawal_fee": "Bridge Withdrawal Fee",
   "bridge_deposit_fee_daily": "Daily average of total fee of transferring funds from Ethereum to Starknet",
   "bridge_withdrawal_fee_daily": "Daily average of total fee of transferring funds from Starknet to Ethereum",
-  "unable_to_locate_bridge_for_txn": "Unable to locate bridge transactions for transaction"
+  "unable_to_locate_bridge_for_txn": "Unable to locate bridge transactions for transaction",
+  "unable_to_locate_state_updates_for_txn": "Unable to locate state updates for transaction"
 }
