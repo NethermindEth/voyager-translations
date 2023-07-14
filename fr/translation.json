@@ -498,5 +498,7 @@
   "bridge_deposit_fee": "Frais de dépôt relais",
   "bridge_withdrawal_fee": "Frais de retrait provisoire",
   "bridge_deposit_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds d'Ethereum à Starknet",
-  "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum"
+  "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum",
+  "total_cairo1+_contracts_created": "Total des contrats Cairo v1+ créés",
+  "total_cairo1+_classes_created": "Total des classes du Caire v1+ créées"
 }

@@ -501,5 +501,7 @@
   "bridge_deposit_fee": "Bridge Deposit Fee",
   "bridge_withdrawal_fee": "Bridge Withdrawal Fee",
   "bridge_deposit_fee_daily": "Daily average of total fee of transferring funds from Ethereum to Starknet",
-  "bridge_withdrawal_fee_daily": "Daily average of total fee of transferring funds from Starknet to Ethereum"
+  "bridge_withdrawal_fee_daily": "Daily average of total fee of transferring funds from Starknet to Ethereum",
+  "total_cairo1+_contracts_created": "Total Cairo v1+ contracts created",
+  "total_cairo1+_classes_created": "Total Cairo v1+ classes created"
 }
