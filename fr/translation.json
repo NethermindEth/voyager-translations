@@ -500,5 +500,8 @@
   "bridge_deposit_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds d'Ethereum à Starknet",
   "bridge_withdrawal_fee_daily": "Moyenne quotidienne des frais totaux de transfert de fonds de Starknet à Ethereum",
   "total_cairo1+_contracts_created": "Total des contrats Cairo v1+ créés",
-  "total_cairo1+_classes_created": "Total des classes du Caire v1+ créées"
+  "total_cairo1+_classes_created": "Total des classes du Caire v1+ créées",
+  "cairo_v1+_contracts": "Contrats Cairo v1+",
+  "total_cairo_v1+_contracts": "Nombre total de contrats Cairo v1+",
+  "new_cairo_v1+_contracts": "Nouveaux contrats Cairo v1+"
 }
