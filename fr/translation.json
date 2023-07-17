@@ -508,5 +508,7 @@
   "total_cairo1+_classes_created": "Total des classes du Caire v1+ créées",
   "cairo_v1+_contracts": "Contrats Cairo v1+",
   "total_cairo_v1+_contracts": "Nombre total de contrats Cairo v1+",
-  "new_cairo_v1+_contracts": "Nouveaux contrats Cairo v1+"
+  "new_cairo_v1+_contracts": "Nouveaux contrats Cairo v1+",
+  "max_recorded_tps_today": "Max recorded transactions per second today",
+  "max_recorded_sps_today": "Max recorded Cairo steps per second today"
 }
