@@ -50,25 +50,23 @@ function add_key() {
     const files = getFiles(".");
 
     files.forEach((file) => {
-        if (file != enPath) {
-            console.info(`Wiriting locale ${file}`)
-            try {
-                const data = fs.readFileSync(file, {
-                    encoding: "utf-8",
-                });
-                const thisLang = JSON.parse(data);
-                const thisLangKeys = Object.keys(thisLang);
-                if (!thisLangKeys.includes(new_key)) {
-                    // If this lang doesn't contain this key then only update
-                    const newFileData = {
-                        ...thisLang,
-                        [new_key]: new_value
-                    };
-                    fs.writeFileSync(file, JSON.stringify(newFileData, null, 2))
-                }
-            } catch (e) {
-                console.error(`Unexpected Error: ${e}`);
+        console.info(`Wiriting locale ${file} | Adding ${new_key} ":" ${new_value}`)
+        try {
+            const data = fs.readFileSync(file, {
+                encoding: "utf-8",
+            });
+            const thisLang = JSON.parse(data);
+            const thisLangKeys = Object.keys(thisLang);
+            if (!thisLangKeys.includes(new_key)) {
+                // If this lang doesn't contain this key then only update
+                const newFileData = {
+                    ...thisLang,
+                    [new_key]: new_value
+                };
+                fs.writeFileSync(file, JSON.stringify(newFileData, null, 2))
             }
+        } catch (e) {
+            console.error(`Unexpected Error: ${e}`);
         }
     });
 
