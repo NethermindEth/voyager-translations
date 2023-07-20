@@ -164,7 +164,7 @@
   "input": "Entrada",
   "data": "Datos",
   "event_id_block_number": "ID de evento: número de bloque, índice de transacción, índice de evento",
-  "unique_number_of_block": "Número único del bloque en el que se procesa el evento",
+  "unique_number_of_block": "Número único del bloque en el que se procesa la transacción",
   "unique_identifer_of_transaction": "Identificador único de la transacción en la que se procesa el evento",
   "sending_party_of_event": "Parte que envió el evento",
   "class_hash_in_which": "Clase en la que se declaró el evento",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "No se pueden ubicar contratos activos",
   "no_active_contracts_display": "No hay contratos activos para mostrar",
   "tokens": "Tokens",
-  "tokens_tooltip": "Tokens principales en Starknet",
+  "tokens_tooltip": "Una lista de todos los tokens de Starknet",
   "transfers": "Transferencias",
   "holders": "Tenedores",
   "unable_locate_erc20_tokens": "No se pueden ubicar tokens ERC20",
@@ -538,5 +538,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }

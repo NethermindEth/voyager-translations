@@ -164,7 +164,7 @@
   "input": "Вхід",
   "data": "Дані",
   "event_id_block_number": "ID події: номер блоку, індекс транзакції, індекс події",
-  "unique_number_of_block": "Унікальний номер блоку в якому подія була оброблена",
+  "unique_number_of_block": "Унікальний номер блоку, у якому обробляється транзакція",
   "unique_identifer_of_transaction": "Унікальний ідентифікатор транзакції в якій подія була оброблена",
   "sending_party_of_event": "Надсилання сторони події",
   "class_hash_in_which": "Клас, де подія була оголошена",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "Активні контракти відсутні",
   "no_active_contracts_display": "Активні контракти відсутні для відображення",
   "tokens": "Токени",
-  "tokens_tooltip": "Топ токени в Starknet",
+  "tokens_tooltip": "Список усіх токенів Starknet",
   "transfers": "Перекази",
   "holders": "Власники",
   "unable_locate_erc20_tokens": "ERC20-токени відсутні",
@@ -538,5 +538,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }

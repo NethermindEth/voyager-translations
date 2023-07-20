@@ -164,7 +164,7 @@
   "input": "输入",
   "data": "数据",
   "event_id_block_number": "事件 ID: 区块号码, 交易列表, 事件列表",
-  "unique_number_of_block": "处理事件的区块的唯一编号",
+  "unique_number_of_block": "交易处理的块的唯一编号",
   "unique_identifer_of_transaction": "处理事件的事务的唯一标识符",
   "sending_party_of_event": "事件发送方。",
   "class_hash_in_which": "声明事件的类",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "无法找到有效合约",
   "no_active_contracts_display": "没有可显示的有效合约",
   "tokens": "代币",
-  "tokens_tooltip": "Starknet 上的代币",
+  "tokens_tooltip": "所有 Starknet 代币的列表",
   "transfers": "转移",
   "holders": "持有者",
   "unable_locate_erc20_tokens": "无法定位 ERC20 代币",
@@ -541,5 +541,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }
