@@ -6,6 +6,7 @@ const ignoreFiles = [
   "Contribution.md",
   "LICENSE",
   "main.js",
+  "add-key.js",
   "README.md",
 ];
 
