@@ -164,7 +164,7 @@
   "input": "Input",
   "data": "Data",
   "event_id_block_number": "Event ID: block number, transaction index, event index",
-  "unique_number_of_block": "Unique number of the block in which the event is processed",
+  "unique_number_of_block": "Unique number of the block in which the transaction is processed",
   "unique_identifer_of_transaction": "Unique identifier of the transaction in which the event is processed",
   "sending_party_of_event": "Sending party of the event",
   "class_hash_in_which": "Class in which the event was declared",
@@ -385,7 +385,7 @@
   "unable_locate_active_contracts": "Unable to locate active contracts",
   "no_active_contracts_display": "No active contracts to display",
   "tokens": "Tokens",
-  "tokens_tooltip": "Top tokens on Starknet",
+  "tokens_tooltip": "A list of all Starknet tokens",
   "transfers": "Transfers",
   "holders": "Holders",
   "unable_locate_erc20_tokens": "Unable to locate ERC20 tokens",
@@ -471,7 +471,7 @@
   "developer": "Developer",
   "top_tokens": "Top Tokens",
   "active_contracts": "Active Contracts",
-  "active_users_tooltip": "A list of the most popular accounts on Starknet",
+  "active_users_tooltip": "A list of the most active account contracts on Starknet",
   "verify_contract_class": "Verify Contract/Class",
   "cli_github_verifier": "CLI Github Verifier",
   "buy_with_ramp": "Buy with Ramp",
@@ -538,5 +538,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }

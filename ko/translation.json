@@ -164,7 +164,7 @@
   "input": "입력",
   "data": "데이터",
   "event_id_block_number": "이벤트 ID: 블록 번호, 트랜잭션 인덱스, 이벤트 인덱스",
-  "unique_number_of_block": "이벤트가 처리된 블록의 고유 번호",
+  "unique_number_of_block": " 거래가 처리되는 블록의 고유 번호",
   "unique_identifer_of_transaction": "이벤트가 처리된 트랜잭션의 고유 식별자",
   "sending_party_of_event": "이벤트를 보낸 당사자",
   "class_hash_in_which": "이벤트가 선언된 클래스",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "활성 스마트 컨트랙트를 찾을 수 없습니다",
   "no_active_contracts_display": "표시할 활성 스마트 컨트랙트가 없습니다",
   "tokens": "토큰",
-  "tokens_tooltip": "Starknet 상의 상위 토큰",
+  "tokens_tooltip": "모든 Starknet 토큰 목록",
   "transfers": "전송",
   "holders": "보유자",
   "unable_locate_erc20_tokens": "ERC20 토큰을 찾을 수 없습니다",
@@ -538,5 +538,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }

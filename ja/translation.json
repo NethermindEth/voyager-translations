@@ -164,7 +164,7 @@
   "input": "入力",
   "data": "データ",
   "event_id_block_number": "イベント ID: ブロック番号、トランザクション インデックス、イベント インデックス",
-  "unique_number_of_block": "イベントが処理されるブロックの一意の番号",
+  "unique_number_of_block": "トランザクションが処理されるブロックのユニーク番号",
   "unique_identifer_of_transaction": "イベントが処理されるトランザクションの一意の識別子",
   "sending_party_of_even": "イベントの送信者",
   "class_hash_in_that": "イベントが宣言されたクラス",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "アクティブコントラクトが見つかりません",
   "no_active_contracts_display": "表示する アクティブコントラクがありません",
   "tokens": "トークン",
-  "tokens_tooltip": "Starknetの上位トークン",
+  "tokens_tooltip": "すべての Starknet トークンのリスト",
   "transfers": "転送",
   "holders": "ホルダー",
   "unable_locate_erc20_tokens": "ERC20 トークンが見つかりません",
@@ -543,5 +543,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }

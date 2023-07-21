@@ -164,7 +164,7 @@
   "input": "đầu vào",
   "data": "Dữ liệu",
   "event_id_block_number": "ID sự kiện: số khối, chỉ mục giao dịch, chỉ mục sự kiện",
-  "unique_number_of_block": "Số duy nhất của khối mà sự kiện được xử lý",
+  "unique_number_of_block": "Số duy nhất của khối mà giao dịch được xử lý",
   "unique_identifer_of_transaction": "Số nhận dạng duy nhất của giao dịch trong đó sự kiện được xử lý",
   "sending_party_of_event": "Bên gửi sự kiện",
   "class_hash_in_which": "Lớp trong đó sự kiện được khai báo",
@@ -380,7 +380,7 @@
   "unable_locate_active_contracts": "Không thể xác định được các hợp đồng hoạt động",
   "no_active_contracts_display": "Không có hợp đồng hoạt động để hiển thị",
   "tokens": "Token",
-  "tokens_tooltip": "Các token hàng đầu trên Starknet",
+  "tokens_tooltip": "Danh sách tất cả các token Starknet",
   "transfers": "Chuyển khoản",
   "holders": "Người nắm giữ",
   "unable_locate_erc20_tokens": "Không thể định vị mã thông báo ERC20",
@@ -538,5 +538,7 @@
   "active_accounts_by_type": "Active Accounts by Type",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
-  "l1_txn_data": "L1 Transaction Data"
+  "l1_txn_data": "L1 Transaction Data",
+  "gas_spent": "Gas Spent",
+  "starknet_by_example": "Starknet by Example"
 }
