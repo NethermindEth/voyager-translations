@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "Calldata, яка була надіслана в транзакції",
   "calldata": "Calldata",
   "calls": "Виклики",
+  "call": "Виклики",
   "signature_of_the_transaction": "Підпис(и) транзакції",
   "signatures": "Підпис(и)",
   "no_signature": "Підпис відсутній",
