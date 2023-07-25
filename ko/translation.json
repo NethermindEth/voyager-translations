@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "트랜잭션에 전송된 콜데이터",
   "calldata": "콜데이터",
   "calls": "호출",
+  "call": "호출",
   "signature_of_the_transaction": "트랜잭션의 서명",
   "signatures": "서명",
   "no_signature": "서명 없음",
