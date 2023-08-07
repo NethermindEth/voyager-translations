@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "交易中发送的调用数据",
   "calldata": "调用数据",
   "calls": "调用",
+  "call": "调用",
   "signature_of_the_transaction": "交易签名",
   "signatures": "签名",
   "no_signature": "没有签名的",

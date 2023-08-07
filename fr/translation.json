@@ -311,6 +311,7 @@
   "calldata_that_was_sent": "Calldata envoyée dans la transaction",
   "calldata": "Calldata",
   "calls": "Appels",
+  "call": "Appel",
   "signature_of_the_transaction": "Signature(s) de la transaction",
   "signatures": "Signature(s)",
   "no_signature": "Aucune signature",

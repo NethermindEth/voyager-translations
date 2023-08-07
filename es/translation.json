@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "Calldata que se envió en la transacción",
   "calldata": "Calldata",
   "calls": "Llamadas",
+  "call": "Llamada",
   "signature_of_the_transaction": "Firma(s) de la transacción",
   "signatures": "Firma(s)",
   "no_signature": "Sin firmas",

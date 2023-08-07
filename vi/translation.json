@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "Dữ liệu cuộc gọi đã được gửi trong giao dịch",
   "calldata": "Dữ liệu cuộc gọi",
   "calls": "Cuộc gọi",
+  "call": "Cuộc gọi",
   "signature_of_the_transaction": "Chữ ký của giao dịch",
   "signatures": "Chữ ký",
   "no_signature": "Không có chữ ký",

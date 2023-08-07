@@ -318,6 +318,7 @@
   "calldata_that_was_sent": "トランザクションで送信された呼び出しデータ",
   "calldata": "呼び出しデータ",
   "calls": "呼び出し",
+  "call": "呼び出し",
   "signature_of_the_transaction": "トランザクションの署名",
   "signatures": "署名",
   "no_signature": "署名なし",
