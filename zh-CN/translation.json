@@ -572,5 +572,6 @@
   "low_output": "Low Output",
   "high_output": "High Output",
   "felt_to_uint384": "Felt to uint384",
-  "mid_output": "Mid Output"
+  "mid_output": "Mid Output",
+  "this_contract_not_balances": "This contract does not have token balances"
 }
