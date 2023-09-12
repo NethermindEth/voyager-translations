@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "Нет токенов ERC20 для отображения",
   "unable_locate_erc721_tokens": "Не удалось найти токены ERC721",
   "no_erc721_tokens_display": "Нет токенов ERC721 для отображения",
+  "unable_locate_erc1155_tokens": "Не удалось найти токены ERC1155",
+  "no_erc1155_tokens_display": "Нет токенов ERC1155 для отображения",
   "latest_blog_posts": "Последние записи в блоге",
   "featured_content": "Рекомендуемые материалы",
   "read_our_blog": "Читайте наш блог",

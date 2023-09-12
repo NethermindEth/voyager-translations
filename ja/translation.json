@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "表示する ERC20 トークンがありません",
   "unable_locate_erc721_tokens": "ERC721 トークンが見つかりません",
   "no_erc721_tokens_display": "表示するERC721トークンがありません",
+  "unable_locate_erc1155_tokens": "ERC1155トークンが見つかりません",
+  "no_erc1155_tokens_display": "表示するERC1155トークンがありません",
   "account_calls": "アカウントコール",
   "account_call": "アカウントコール",
   "list_accountcall_on_starknet": "Starknet のアカウント呼び出しのリスト",

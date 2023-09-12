@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "Відсутні ERC20-токени для відображення",
   "unable_locate_erc721_tokens": "ERC721-токени відсутні",
   "no_erc721_tokens_display": "Відсутні ERC721 токени для відображення",
+  "unable_locate_erc1155_tokens": "ERC1155-токени відсутні",
+  "no_erc1155_tokens_display": "Відсутні ERC1155 токени для відображення",
   "latest_blog_posts": "Останні блоги",
   "featured_content": "Рекомендовані матеріали",
   "read_our_blog": "Читати наш блок",

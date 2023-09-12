@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "没有可显示的 ERC20 代币",
   "unable_locate_erc721_tokens": "无法定位 ERC721 代币",
   "no_erc721_tokens_display": "没有要显示的 ERC721 代币",
+  "unable_locate_erc1155_tokens": "无法定位 ERC1155 代币",
+  "no_erc1155_tokens_display": "没有要显示的 ERC1155 代币",
   "latest_blog_posts": "最新博文",
   "featured_content": "精选内容",
   "read_our_blog": "阅读我们的博客",
