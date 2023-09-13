@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "No hay tokens ERC20 para mostrar",
   "unable_locate_erc721_tokens": "No se pueden ubicar tokens ERC721",
   "no_erc721_tokens_display": "No hay tokens ERC721 para mostrar",
+  "unable_locate_erc1155_tokens": "No se pueden ubicar tokens ERC1155",
+  "no_erc1155_tokens_display": "No hay tokens ERC1155 para mostrar",
   "latest_blog_posts": "Últimas publicaciones de blogs",
   "featured_content": "Contenido destacado",
   "read_our_blog": "Lea nuestro blog",

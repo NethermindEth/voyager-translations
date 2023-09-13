@@ -390,6 +390,8 @@
   "no_erc20_tokens_display": "Không có mã thông báo ERC20 nào để hiển thị",
   "unable_locate_erc721_tokens": "Không thể định vị mã thông báo ERC721",
   "no_erc721_tokens_display": "Không có mã thông báo ERC721 nào để hiển thị",
+  "unable_locate_erc1155_tokens": "Không thể định vị mã thông báo ERC1155",
+  "no_erc1155_tokens_display": "Không có mã thông báo ERC1155 nào để hiển thị",
   "latest_blog_posts": "Bài đăng blog mới nhất",
   "featured_content": "Nội dung nổi bật",
   "read_our_blog": "Đọc blog của chúng tôi",
