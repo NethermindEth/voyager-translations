@@ -573,5 +573,6 @@
   "felt_to_uint384": "Felt to uint384",
   "mid_output": "Mid Output",
   "this_contract_not_balances": "This contract does not have token balances",
-  "gas_price":"가솔린 가격"
+  "gas_price":"가솔린 가격",
+  "gas_price_for_block": "블록의 가솔린 가격"
 }

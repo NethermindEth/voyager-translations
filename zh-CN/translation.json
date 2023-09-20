@@ -576,5 +576,6 @@
   "felt_to_uint384": "Felt to uint384",
   "mid_output": "Mid Output",
   "this_contract_not_balances": "This contract does not have token balances",
-  "gas_price": "汽油费"
+  "gas_price": "gas 费",
+  "gas_price_for_block": "区块的 gas 价格"
 }
