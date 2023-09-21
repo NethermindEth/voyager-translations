@@ -573,6 +573,12 @@
   "felt_to_uint384": "Felt to uint384",
   "mid_output": "Mid Output",
   "this_contract_not_balances": "This contract does not have token balances",
+  "unix_timestamp": "Unix Timestamp",
+  "unix_timestamp_block_created": "Unix timestamp at which block was created",
+  "unix_timestamp_transaction_created": "Unix timestamp at which the transaction was processed",
+  "unix_timestamp_class_created": "Unix timestamp at which the class was declared",
+  "time_at_which_event": "Time at which event was created",
+  "unix_timestamp_event_created": "Unix timestamp at which the event was created",
   "gas_price": "precio de la gasolina",
   "gas_price_for_block": "Precio de la gasolina para el bloque"
 }
