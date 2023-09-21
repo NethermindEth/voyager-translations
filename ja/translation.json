@@ -583,5 +583,7 @@
   "unix_timestamp_transaction_created": "Unix timestamp at which the transaction was processed",
   "unix_timestamp_class_created": "Unix timestamp at which the class was declared",
   "time_at_which_event": "Time at which event was created",
-  "unix_timestamp_event_created": "Unix timestamp at which the event was created"
+  "unix_timestamp_event_created": "Unix timestamp at which the event was created",
+  "gas_price":  "ガソリン価格",
+  "gas_price_for_block": "ブロックのガソリン価格"
 }
