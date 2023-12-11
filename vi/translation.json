@@ -580,5 +580,8 @@
   "time_at_which_event": "Time at which event was created",
   "unix_timestamp_event_created": "Unix timestamp at which the event was created",
   "gas_price": "Giá khí",
-  "gas_price_for_block": "Giá khí cho khối"
+  "gas_price_for_block": "Giá khí cho khối",
+  "duration_between_pending_accepted": "Average time duration between one block's pending state and 'Accepted-on-L1' today",
+  "duration_between_accepted_l1": "Average time duration between each block's 'Accepted-on-L1' today",
+  "duration_between_accepted_l2": "Average time duration between each block's 'Accepted-on-L2' today"
 }
