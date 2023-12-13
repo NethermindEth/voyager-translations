@@ -583,5 +583,9 @@
   "gas_price_for_block": "Precio de la gasolina para el bloque",
   "duration_between_pending_accepted": "Average time duration between one block's pending state and 'Accepted-on-L1' today",
   "duration_between_accepted_l1": "Average time duration between each block's 'Accepted-on-L1' today",
-  "duration_between_accepted_l2": "Average time duration between each block's 'Accepted-on-L2' today"
+  "duration_between_accepted_l2": "Average time duration between each block's 'Accepted-on-L2' today",
+  "stats": "Stats",
+  "sierra_bytecode": "Sierra Bytecode",
+  "starknet_remix": "Starknet Remix",
+  "starknet_cli_starkli": "Starknet CLI (Starkli)"
 }
