@@ -407,6 +407,7 @@
   "unable_to_locate_transfers": "Impossible de localiser les transferts de jetons",
   "this_contract_no_token_transfers": "Aucun transferts de jeton à afficher",
   "token_id": "Identifiant du jeton",
+  "percentage": "Pourcentage",
   "last_transfer": "Dernier transfert",
   "uninitialized_contract": "Contrat non initialisé",
   "uninitialized": "Non initialisé",

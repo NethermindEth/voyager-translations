@@ -415,6 +415,7 @@
   "unable_to_locate_transfers": "トークン転送が見つかりません",
   "this_contract_no_token_transfers": "表示するトークン転送がありません",
   "token_id": "トークン ID",
+  "percentage": "パーセンテージ",
   "last_transfer": "最後の転送",
   "uninitialized_contract": "初期化されていないコントラクト",
   "uninitialized": "初期化されていない",
