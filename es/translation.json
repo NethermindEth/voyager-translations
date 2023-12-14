@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "No se pueden ubicar las transferencias de tokens",
   "this_contract_no_token_transfers": "No hay transferencias de tokens para mostrar",
   "token_id": "Identificador de token",
+  "percentage": "Porcentaje",
   "last_transfer": "Última transferencia",
   "uninitialized_contract": "Contrato sin inicializar",
   "uninitialized": "Sin inicializar",

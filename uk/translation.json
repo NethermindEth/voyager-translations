@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "Перекази токена відсутні",
   "this_contract_no_token_transfers": "Відсутні перекази токена для відображення",
   "token_id": "Id токена",
+  "percentage": "відсоток",
   "last_transfer": "Останній переказ",
   "uninitialized_contract": "Не ініціалізований контракт",
   "uninitialized": "Не ініціалізований",

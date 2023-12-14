@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "无法定位代币传输",
   "this_contract_no_token_transfers": "没有代币转移显示",
   "token_id": "代币 Id",
+  "percentage": "百分比",
   "last_transfer": "上次转账",
   "uninitialized_contract": "未初始化的合约",
   "uninitialized": "未初始化",

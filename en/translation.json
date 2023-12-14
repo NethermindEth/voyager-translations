@@ -423,6 +423,7 @@
   "unable_to_locate_transfers": "Unable to locate token transfers",
   "this_contract_no_token_transfers": "No token transfers to display",
   "token_id": "Token Id",
+  "percentage": "Percentage",
   "last_transfer": "Last Transfer",
   "uninitialized_contract": "Uninitialized Contract",
   "uninitialized": "Uninitialized",

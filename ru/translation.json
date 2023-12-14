@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "Не удалось найти переводы токенов",
   "this_contract_no_token_transfers": "Нет переводов токенов для отображения",
   "token_id": "ID токена",
+  "percentage": "процент",
   "last_transfer": "Последний перевод",
   "uninitialized_contract": "Неинициализированный контракт",
   "uninitialized": "Неинициализировано",

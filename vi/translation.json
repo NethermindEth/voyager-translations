@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "Không thể xác định được chuyển đổi Token",
   "this_contract_no_token_transfers": "Không có chuyển đổi Token để hiển thị",
   "token_id": "Id mã thông báo",
+  "percentage": "phần trăm",
   "last_transfer": "Lần chuyển cuối cùng",
   "uninitialized_contract": "Hợp đồng chưa khởi tạo",
   "uninitialized": "Chưa khởi tạo",

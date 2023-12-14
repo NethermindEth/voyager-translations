@@ -418,6 +418,7 @@
   "unable_to_locate_transfers": "토큰 전송을 찾을 수 없음",
   "this_contract_no_token_transfers": "표시할 토큰 전송 없음",
   "token_id": "토큰 ID",
+  "percentage": "백분율",
   "last_transfer": "마지막 전송",
   "uninitialized_contract": "초기화되지 않은 컨트랙트",
   "uninitialized": "초기화되지 않음",
