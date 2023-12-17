@@ -593,5 +593,6 @@
   "stats": "Stats",
   "sierra_bytecode": "Sierra Bytecode",
   "starknet_remix": "Starknet Remix",
-  "starknet_cli_starkli": "Starknet CLI (Starkli)"
+  "starknet_cli_starkli": "Starknet CLI (Starkli)",
+  "number_of_owners": "Number of owners"
 }
