@@ -594,5 +594,7 @@
   "sierra_bytecode": "Sierra Bytecode",
   "starknet_remix": "Starknet Remix",
   "starknet_cli_starkli": "Starknet CLI (Starkli)",
-  "number_of_owners": "Number of owners"
+  "number_of_owners": "Number of owners",
+  "services_terms_of_use": "Services Terms of Use",
+  "site_terms_of_use": "Site Terms of Use"
 }
