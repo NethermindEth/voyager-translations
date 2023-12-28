@@ -52,7 +52,7 @@ Steps to Contribute
   - Not to send out changes to github
     - We can send it via `git push`
     - NOTE: If you get error like `fatal: The current branch YOUR_BRANCH_NAME has no upstream branch.`, don't panic just use the command mentioned below.
-        - Which should be something like `git push --set-upstream origin YOUR_BRANCH_NAME`
+      - Which should be something like `git push --set-upstream origin YOUR_BRANCH_NAME`
   - If we have pushed successfully, we can view that branch in our github account in web browser
 - Step 6: Creating a PR(Pull Request)
   - This is the final step to make your contribution to be included in the translations.
