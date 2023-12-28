@@ -609,5 +609,8 @@
   "max_recorded_acps_today": "Max recorded account calls per second today",
   "number_acpb_today": "Number of account calls per block today",
   "total_account_calls": "Total number of account calls today",
-  "relative_compute": "Relative Compute"
+  "relative_compute": "Relative Compute",
+  "token_symbol": "Token symbol",
+  "token_decimals": "Token decimals",
+  "token_total_supply": "Token total supply"
 }
