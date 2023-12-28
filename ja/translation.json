@@ -594,5 +594,8 @@
   "sierra_bytecode": "Sierra Bytecode",
   "starknet_remix": "Starknet Remix",
   "starknet_cli_starkli": "Starknet CLI (Starkli)",
-  "number_of_owners": "Number of owners"
+  "number_of_owners": "Number of owners",
+  "token_symbol": "Token symbol",
+  "token_decimals": "Token decimals",
+  "token_total_supply": "Token total supply"
 }
