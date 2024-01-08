@@ -612,5 +612,9 @@
   "relative_compute": "Relative Compute",
   "token_symbol": "Token symbol",
   "token_decimals": "Token decimals",
-  "token_total_supply": "Token total supply"
+  "token_total_supply": "Token total supply",
+  "number_of_holders": "Number of holders",
+  "unable_to_locate_token": "Unable to locate the token",
+  "verified_name": "Verified name",
+  "total_supply": "Total supply"
 }
