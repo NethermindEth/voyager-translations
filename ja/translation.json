@@ -621,5 +621,9 @@
   "number_of_holders": "Number of holders",
   "unable_to_locate_token": "Unable to locate the token",
   "verified_name": "Verified name",
-  "total_supply": "Total supply"
+  "total_supply": "Total supply",
+  "eth_gas_price": "ETH gas price",
+  "strk_gas_price":"STRK gas price",
+  "eth_gas_price_for_block": "ETH gas price for block",
+  "strk_gas_price_for_block": "STRK gas price for block"
 }
