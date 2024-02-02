@@ -18,3 +18,4 @@
 - French (fr)
 - Korean (ko)
 - Spanish (es)
+- Turkish (tr)
