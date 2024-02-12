@@ -357,6 +357,9 @@
   "block_details": "ブロックの詳細",
   "unable_locate_transaction_block": "このブロックのトランザクションを検索できません",
   "this_block_no_selected": "このブロックには選択されたタイプのトランザクションがありません。",
+  "this_transaction_no_selected_messages" : "このトランザクションには選択されたタイプのメッセージがありません",
+  "this_contract_no_selected_messages": "このコントラクトには選択されたタイプのメッセージがありません",
+  "this_block_no_selected_messages" : "このブロックには選択されたタイプのメッセージがありません",
   "unable_locate_events_block": "このブロックのイベントを検索できません",
   "unable_locate_messages_block": "このブロックのメッセージを検索できません",
   "this_block_not_messages": "このブロックにはメッセージがありません",
@@ -625,5 +628,7 @@
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
   "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block"
+  "strk_gas_price_for_block": "STRK gas price for block",
+  "l1->l2" : "L1->L2",
+  "l2->l1" : "L2->L1"
 }

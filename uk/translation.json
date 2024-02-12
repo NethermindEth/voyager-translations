@@ -357,6 +357,9 @@
   "block_details": "Деталі блоку",
   "unable_locate_transaction_block": "Транзакція для блоку відсутня",
   "this_block_no_selected": "Блок не має транзакцій обраного типу",
+  "this_transaction_no_selected_messages" : "У цій транзакції немає повідомлень вибраного типу",
+  "this_contract_no_selected_messages": "У цьому контракті немає повідомлень вибраного типу",
+  "this_block_no_selected_messages" : "У цьому блоці немає повідомлень вибраного типу",
   "unable_locate_events_block": "Події для блоку відсутні",
   "unable_locate_messages_block": "Повідомлення для блоку відсутні",
   "this_block_not_messages": "Блок не має повідомлень",
@@ -620,5 +623,7 @@
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
   "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block"
+  "strk_gas_price_for_block": "STRK gas price for block",
+  "l1->l2" : "L1->L2",
+  "l2->l1" : "L2->L1"
 }
