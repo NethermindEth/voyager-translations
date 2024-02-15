@@ -357,9 +357,9 @@
   "block_details": "Chi tiết khối",
   "unable_locate_transaction_block": "Không thể định vị giao dịch cho khối",
   "this_block_no_selected": "Khối này không có giao dịch nào thuộc loại đã chọn",
-  "this_transaction_no_selected_messages" : "Giao dịch này không có tin nhắn thuộc loại đã chọn",
-  "this_contract_no_selected_messages": "Hợp đồng này không có tin nhắn thuộc loại đã chọn",
-  "this_block_no_selected_messages" : "Khối này không có tin nhắn thuộc loại đã chọn",
+  "transaction_no_selected_messages" : "Giao dịch này không có tin nhắn thuộc loại đã chọn",
+  "contract_no_selected_messages": "Hợp đồng này không có tin nhắn thuộc loại đã chọn",
+  "block_no_selected_messages" : "Khối này không có tin nhắn thuộc loại đã chọn",
   
   "unable_locate_events_block": "Không thể định vị sự kiện cho khối",
   "unable_locate_messages_block": "Không thể định vị tin nhắn để chặn",
