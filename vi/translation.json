@@ -357,6 +357,10 @@
   "block_details": "Chi tiết khối",
   "unable_locate_transaction_block": "Không thể định vị giao dịch cho khối",
   "this_block_no_selected": "Khối này không có giao dịch nào thuộc loại đã chọn",
+  "transaction_no_selected_messages" : "Giao dịch này không có tin nhắn thuộc loại đã chọn",
+  "contract_no_selected_messages": "Hợp đồng này không có tin nhắn thuộc loại đã chọn",
+  "block_no_selected_messages" : "Khối này không có tin nhắn thuộc loại đã chọn",
+  
   "unable_locate_events_block": "Không thể định vị sự kiện cho khối",
   "unable_locate_messages_block": "Không thể định vị tin nhắn để chặn",
   "this_block_not_messages": "Khối này không có tin nhắn",
@@ -619,6 +623,8 @@
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
-  "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block"
+  "eth_gas_price_block": "ETH gas price for block",
+  "strk_gas_price_block": "STRK gas price for block",
+  "l1_l2" : "L1->L2",
+  "l2_l1" : "L2->L1"
 }

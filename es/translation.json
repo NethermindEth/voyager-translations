@@ -357,6 +357,9 @@
   "block_details": "Detalles del bloque",
   "unable_locate_transaction_block": "No se pueden ubicar transacciones para el bloque",
   "this_block_no_selected": "Este bloque no tiene transacciones del tipo seleccionado",
+  "transaction_no_selected_messages" : "Esta transacción no tiene mensajes del tipo seleccionado",
+  "contract_no_selected_messages": "Este contrato no tiene mensajes del tipo seleccionado",
+  "block_no_selected_messages" : "Este bloque no tiene mensajes del tipo seleccionado",
   "unable_locate_events_block": "No se pueden ubicar eventos para el bloque",
   "unable_locate_messages_block": "No se pueden ubicar mensajes para el bloque",
   "this_block_not_messages": "Este bloque no tiene mensajes",
@@ -619,6 +622,8 @@
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
-  "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block"
+  "eth_gas_price_block": "ETH gas price for block",
+  "strk_gas_price_block": "STRK gas price for block",
+  "l1_l2" : "L1->L2",
+  "l2_l1" : "L2->L1"
 }

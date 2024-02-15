@@ -332,6 +332,9 @@
   "this_transaction_not_events": "This transaction does not have events",
   "unable_locate_message_transaction": "Unable to locate messages for transaction",
   "this_transaction_not_messages": "This transaction does not have messages",
+  "transaction_no_selected_messages" : "This transaction has no messages of selected type",
+  "contract_no_selected_messages": "This contract has no messages of selected type",
+  "block_no_selected_messages" : "This block has no messages of selected type",
   "this_transaction_no_invocation": "This transaction has no invocation trace",
   "identifier": "Identifier",
   "address_hash": "address/hash",
@@ -619,6 +622,8 @@
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
-  "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block"
+  "eth_gas_price_block": "ETH gas price for block",
+  "strk_gas_price_block": "STRK gas price for block",
+  "l1_l2" : "L1->L2",
+  "l2_l1" : "L2->L1"
 }
