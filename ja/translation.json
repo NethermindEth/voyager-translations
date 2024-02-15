@@ -627,8 +627,8 @@
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
   "strk_gas_price":"STRK gas price",
-  "eth_gas_price_for_block": "ETH gas price for block",
-  "strk_gas_price_for_block": "STRK gas price for block",
+  "eth_gas_price_block": "ETH gas price for block",
+  "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "l1_l2",
   "l2_l1" : "l2_l1"
 }
