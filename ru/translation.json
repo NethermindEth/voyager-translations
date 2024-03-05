@@ -273,6 +273,7 @@
   "disconnect": "Отключить",
   "no_wallet_detected": "Кошелек не обнаружен",
   "download": "Скачать",
+  "downloaded": "Cкачал",
   "connect_wallet": "Подключить кошелек",
   "connected": "Подключено",
   "change_provider": "Сменить провайдера",
@@ -626,5 +627,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "Загрузка",
+  "export" : "Экспорт"
 }

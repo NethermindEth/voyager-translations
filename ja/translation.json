@@ -273,6 +273,7 @@
   "disconnect": "切断",
   "no_wallet_detected": "ウォレットが検出されませんでした",
   "download": "ダウンロード",
+  "downloaded": "ダウンロードされた",
   "connect_wallet": "ウォレットを接続",
   "connected": "接続済み",
   "change_provider": "プロバイダーの変更",
@@ -630,5 +631,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "読み込み中",
+  "export" : "輸出"
 }
