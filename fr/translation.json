@@ -628,5 +628,5 @@
   "l1_l2" : "L1->L2",
   "l2_l1" : "L2->L1",
   "loading" : "Chargement",
-  "export" : "Exporter"
+  "export_token_transfers" : "Exporter les transferts de jetons"
 }
