@@ -273,6 +273,7 @@
   "disconnect": "断开",
   "no_wallet_detected": "未检测到钱包。",
   "download": "下载",
+  "downloaded": "已下载",
   "connect_wallet": "连接钱包",
   "connected": "连接的",
   "change_provider": "更换供应商",
@@ -628,6 +629,8 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "加载中",
+  "export_token_transfers" : "导出代币转账"
   
 }

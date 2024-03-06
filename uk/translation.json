@@ -273,6 +273,7 @@
   "disconnect": "Від'єднатись",
   "no_wallet_detected": "Не знайдено гаманець",
   "download": "Завантажити",
+  "downloaded": "завантажено",
   "connect_wallet": "Під'єднати гаманець",
   "connected": "Під'єднано",
   "change_provider": "Змінити провайдера",
@@ -625,5 +626,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "Завантаження",
+  "export_token_transfers" : "Експорт токенів"
 }

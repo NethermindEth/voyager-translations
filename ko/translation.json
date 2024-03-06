@@ -273,6 +273,7 @@
   "disconnect": "연결 해제",
   "no_wallet_detected": "지갑을 감지할 수 없습니다",
   "download": "다운로드",
+  "downloaded": "다운로드됨",
   "connect_wallet": "지갑 연결",
   "connected": "연결됨",
   "change_provider": "공급자 변경",
@@ -625,5 +626,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "로드 중",
+  "export_token_transfers" : "토큰 전송 내보내기"
 }

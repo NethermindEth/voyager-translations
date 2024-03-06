@@ -277,6 +277,7 @@
   "disconnect": "Disconnect",
   "no_wallet_detected": "No Wallet Detected",
   "download": "Download",
+  "downloaded": "downloaded",
   "connect_wallet": "Connect Wallet",
   "connected": "Connected",
   "change_provider": "Change Provider",
@@ -625,5 +626,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "Loading",
+  "export_token_transfers" : "Export token transfers"
 }

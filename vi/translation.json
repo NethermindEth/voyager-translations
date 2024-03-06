@@ -273,6 +273,7 @@
   "disconnect": "Ngắt kết nối",
   "no_wallet_detected": "Không tìm thấy ví",
   "download": "Tải xuống",
+  "downloaded": "Đã tải xuống",
   "connect_wallet": "Kết nối Ví",
   "connected": "Đã kết nối",
   "change_provider": "Thay đổi nhà cung cấp",
@@ -626,5 +627,7 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l2_l1" : "L2->L1",
+  "loading" : "Đang tải",
+  "export_token_transfers" : "Xuất chuyển mã thông báo"
 }
