@@ -629,5 +629,5 @@
   "l1_l2" : "L1->L2",
   "l2_l1" : "L2->L1",
   "loading" : "Đang tải",
-  "export" : "Xuất khẩu"
+  "export_token_transfers" : "Xuất chuyển mã thông báo"
 }

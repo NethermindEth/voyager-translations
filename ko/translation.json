@@ -628,5 +628,5 @@
   "l1_l2" : "L1->L2",
   "l2_l1" : "L2->L1",
   "loading" : "로드 중",
-  "export" : "내보내다"
+  "export_token_transfers" : "토큰 전송 내보내기"
 }

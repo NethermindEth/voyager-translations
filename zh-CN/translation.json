@@ -631,6 +631,6 @@
   "l1_l2" : "L1->L2",
   "l2_l1" : "L2->L1",
   "loading" : "加载中",
-  "export" : "出口"
+  "export_token_transfers" : "导出代币转账"
   
 }

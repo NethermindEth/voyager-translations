@@ -633,5 +633,5 @@
   "l1_l2" : "L1->L2",
   "l2_l1" : "L2->L1",
   "loading" : "読み込み中",
-  "export" : "輸出"
+  "export_token_transfers" : "エクスポートトークン転送"
 }
