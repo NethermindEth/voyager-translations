@@ -357,10 +357,10 @@
   "block_details": "Chi tiết khối",
   "unable_locate_transaction_block": "Không thể định vị giao dịch cho khối",
   "this_block_no_selected": "Khối này không có giao dịch nào thuộc loại đã chọn",
-  "transaction_no_selected_messages" : "Giao dịch này không có tin nhắn thuộc loại đã chọn",
+  "transaction_no_selected_messages": "Giao dịch này không có tin nhắn thuộc loại đã chọn",
   "contract_no_selected_messages": "Hợp đồng này không có tin nhắn thuộc loại đã chọn",
-  "block_no_selected_messages" : "Khối này không có tin nhắn thuộc loại đã chọn",
-  
+  "block_no_selected_messages": "Khối này không có tin nhắn thuộc loại đã chọn",
+
   "unable_locate_events_block": "Không thể định vị sự kiện cho khối",
   "unable_locate_messages_block": "Không thể định vị tin nhắn để chặn",
   "this_block_not_messages": "Khối này không có tin nhắn",
@@ -454,8 +454,8 @@
   "fee_swap_asset_average": "Phí trao đổi tài sản trên Starknet (trung bình 7 ngày)",
   "fee_mint_nft_average": "Phí tạo NFT trên Starknet (trung bình 7 ngày)",
   "fee_paid_to_verify": "Tổng phí trả cho xác minh một khối L2 cụ thể trên L1 (trung bình 7 ngày)",
-  "actual_fee_all_transactions": "Tổng phí thực tế của tất cả các giao dịch trong một khối (trung bình 7 ngày)",
-  "total_gas_used_block": "Tổng khí đã sử dụng bởi tất cả các giao dịch trong một khối (trung bình 7 ngày)",
+  "actual_fee_all_transactions": "Tổng phí thực tế của tất cả các giao dịch trong một khối hôm nay",
+  "total_gas_used_block": "Tổng khí đã sử dụng bởi tất cả các giao dịch trong một khối hôm nay",
   "total_fee_ethereum_starknet": "Tổng phí chuyển tiền từ Ethereum đến Starknet (trung bình 7 ngày)",
   "total_fee_starknet_ethereum": "Tổng phí chuyển tiền từ Starknet đến Ethereum (trung bình 7 ngày)",
   "total_contracts_created": "Tổng số hợp đồng đã tạo",
@@ -622,9 +622,9 @@
   "verified_name": "Verified name",
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
-  "strk_gas_price":"STRK gas price",
+  "strk_gas_price": "STRK gas price",
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
-  "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
+  "l1_l2": "L1->L2",
+  "l2_l1": "L2->L1"
 }
