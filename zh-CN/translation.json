@@ -357,9 +357,9 @@
   "block_details": "区块详情",
   "unable_locate_transaction_block": "无法定位区块的交易",
   "this_block_no_selected": "该区块没有选定类型的交易。",
-  "transaction_no_selected_messages" : "此交易没有选定类型的消息",
+  "transaction_no_selected_messages": "此交易没有选定类型的消息",
   "contract_no_selected_messages": "该合约没有选定类型的消息",
-  "block_no_selected_messages" : "该块没有选定类型的消息",
+  "block_no_selected_messages": "该块没有选定类型的消息",
   "unable_locate_events_block": "无法定位区块的事件",
   "unable_locate_messages_block": "无法找到区块的消息",
   "this_block_not_messages": "此区块没有信息",
@@ -453,8 +453,8 @@
   "fee_swap_asset_average": "Starknet 上的资产交换的费用（平均 7 天）",
   "fee_mint_nft_average": "Starknet 上铸造 NFT 的费用（平均 7 天）",
   "fee_paid_to_verify": "为验证 L1 上的特定 L2 区块支付的总费用（平均 7 天）",
-  "actual_fee_all_transactions": "一个区块中所有交易的总实际费用（平均 7 天）",
-  "total_gas_used_block": "一个区块中所有交易使用的总 gas（平均 7 天）",
+  "actual_fee_all_transactions": "今天一个区块中所有交易的实际费用总额",
+  "total_gas_used_block": "今天一个区块中所有交易使用的 Gas 总量",
   "total_fee_ethereum_starknet": "从以太坊转移资金到Starknet的总费用（平均 7 天）",
   "total_fee_starknet_ethereum": "从 Starknet 转移资金到以太坊的总费用（平均 7 天）",
   "total_contracts_created": "创建的合约总数",
@@ -624,10 +624,9 @@
   "verified_name": "Verified name",
   "total_supply": "Total supply",
   "eth_gas_price": "ETH gas price",
-  "strk_gas_price":"STRK gas price",
+  "strk_gas_price": "STRK gas price",
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
-  "l1_l2" : "L1->L2",
-  "l2_l1" : "L2->L1"
-  
+  "l1_l2": "L1->L2",
+  "l2_l1": "L2->L1"
 }
