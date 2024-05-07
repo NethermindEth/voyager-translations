@@ -628,5 +628,9 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2": "L1->L2",
-  "l2_l1": "L2->L1"
+  "l2_l1": "L2->L1",
+  "eth_data_gas_price_block": "ETH data gas price for block",
+  "strk_data_gas_price_block": "STRK data gas price for block",
+  "l1_da_mode_block": "L1 DA mode for block",
+  "resources_utilized_execute_transactions": "The total count of resources used in this block"
 }

@@ -360,7 +360,6 @@
   "transaction_no_selected_messages": "В этой транзакции нет сообщений выбранного типа",
   "contract_no_selected_messages": "В этом контракте нет сообщений выбранного типа",
   "block_no_selected_messages": "В этом блоке нет сообщений выбранного типа",
-
   "unable_locate_events_block": "Не удается найти события для блока",
   "unable_locate_messages_block": "Не удается найти сообщения для блока",
   "this_block_not_messages": "В этом блоке нет сообщений",
@@ -626,5 +625,9 @@
   "eth_gas_price_block": "ETH gas price for block",
   "strk_gas_price_block": "STRK gas price for block",
   "l1_l2": "L1->L2",
-  "l2_l1": "L2->L1"
+  "l2_l1": "L2->L1",
+  "eth_data_gas_price_block": "ETH data gas price for block",
+  "strk_data_gas_price_block": "STRK data gas price for block",
+  "l1_da_mode_block": "L1 DA mode for block",
+  "resources_utilized_execute_transactions": "The total count of resources used in this block"
 }
