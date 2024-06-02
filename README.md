@@ -17,4 +17,5 @@
 - English (en)
 - French (fr)
 - Korean (ko)
+- Simpliefied Chinese (zh-cn)
 - Spanish (es)
