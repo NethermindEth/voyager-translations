@@ -7,6 +7,10 @@
 - Translate all or keys which are required in file `translation.json` which should be inside `YOUR_LOCALE/translation.json`
 - Once done, commit you changes push to the branch and make a PR to `main` branch.
 
+## Guidelines for creating new keys:
+- Keys should be always lowercase and snake cased
+- Keys should atmost have 4 words
+
 ## Locales naming
 
 - You can take help and name folder as country code [link](https://www.w3.org/International/O-charset-lang.html)
