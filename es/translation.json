@@ -414,6 +414,8 @@
   "holder": "Titular",
   "token_holders": "Titulares de tokens",
   "token_holders_transfers": " Titulares de Tokens / Transferencias",
+  "token_holdings": "Tenencia de tokens",
+  "total_value": "Valor total",
   "unable_to_locate_holders": "No se pueden ubicar los titulares de tokens",
   "this_token_no_holders": "No hay titulares de tokens para mostrar",
   "token_transfers": "Transferencias de tokens",

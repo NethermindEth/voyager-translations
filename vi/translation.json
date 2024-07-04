@@ -414,6 +414,8 @@
   "holder": "Người giữ",
   "token_holders": "Người nắm giữ mã thông báo",
   "token_holders_transfers": "Người nắm giữ Token / Chuyển khoản",
+  "token_holdings": "Nắm giữ token",
+  "total_value": "Tổng giá trị",
   "unable_to_locate_holders": "Không thể định vị chủ sở hữu mã thông báo",
   "this_token_no_holders": "Không có chủ sở hữu mã thông báo để hiển thị",
   "token_transfers": "Chuyển đổi Token",

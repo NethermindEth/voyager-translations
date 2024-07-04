@@ -414,6 +414,8 @@
   "holder": "보유자",
   "token_holders": "토큰 보유자",
   "token_holders_transfers": "토큰 홀더 / 이체",
+  "token_holdings": "토큰 보유량",
+  "total_value": "총 가치",
   "unable_to_locate_holders": "토큰 보유자를 찾을 수 없습니다",
   "this_token_no_holders": "표시할 토큰 보유자가 없습니다",
   "token_transfers": "토큰 전송",

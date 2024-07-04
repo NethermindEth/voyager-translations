@@ -414,6 +414,8 @@
   "holder": "Держатель",
   "token_holders": "Держатели токенов",
   "token_holders_transfers": "Владельцы токенов / Переводы",
+  "token_holdings": "Держатели токенов",
+  "total_value": "Общая стоимость",
   "unable_to_locate_holders": "Не удалось найти держателей токенов",
   "this_token_no_holders": "Нет держателей токенов для отображения",
   "token_transfers": "Переводы токенов",

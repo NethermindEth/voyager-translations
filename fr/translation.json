@@ -403,6 +403,8 @@
   "holder": "Détenteur",
   "token_holders": "Jeton Détenteurs",
   "token_holders_transfers": "Porteurs de Jetons / Transferts",
+  "token_holdings": "Détention de jetons",
+  "total_value": "Valeur totale",
   "unable_to_locate_holders": "Impossible de localiser les détenteurs de jetons",
   "this_token_no_holders": "Aucun détenteur de jeton à afficher",
   "token_transfers": "Jeton Transferts",
