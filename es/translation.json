@@ -32,6 +32,7 @@
   "coingecko": "CoinGecko",
   "starknet_cli": "Starknet CLI",
   "page_not_found": "Página no encontrada",
+  "page_not_found_funny": "No pudimos encontrar la página que buscas, así que te mostraremos algunos anuncios.",
   "the_page_you_are": "La página que buscabas no pudo ser encontrada",
   "search_by_blocks_transactions": "Buscar por bloques / transacciones / contratos",
   "current_tps": "TPS actual",
