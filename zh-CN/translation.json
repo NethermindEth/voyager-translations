@@ -32,6 +32,7 @@
   "coingecko": "币虎",
   "starknet_cli": "Starknet CLI",
   "page_not_found": "找不到网页",
+  "page_not_found_funny": "我们找不到您要找的页面，所以我们会向您展示一些广告。",
   "the_page_you_are": "找不到您要查找的页面。",
   "search_by_blocks_transactions": "按区块/交易/合约搜索",
   "current_tps": "当前的 tps",

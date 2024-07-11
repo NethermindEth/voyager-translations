@@ -32,6 +32,7 @@
   "coingecko": "CoinGecko",
   "starknet_cli": "스타크넷 CLI",
   "page_not_found": "페이지를 찾을 수 없습니다",
+  "page_not_found_funny": "찾고 있는 페이지를 찾을 수 없어서 광고를 보여드리겠습니다.",
   "the_page_you_are": "요청하신 페이지를 찾을 수 없습니다",
   "search_by_blocks_transactions": "블록 / 트랜잭션 / 컨트랙트 로 검색하기",
   "current_tps": "현재 TPS",
