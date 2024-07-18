@@ -32,7 +32,7 @@
   "coingecko": "CoinGecko",
   "starknet_cli": "Starknet CLI",
   "page_not_found": "Page non trouvée",
-  "page_not_found_funny" :"Nous n'avons pas pu trouver la page que vous cherchez, alors nous vous montrerons quelques annonces.",
+  "page_not_found_funny": "Nous n'avons pas pu trouver la page que vous cherchez, alors nous vous montrerons quelques annonces.",
   "the_page_you_are": "La page que vous recherchiez n'a pas été trouvée",
   "search_by_blocks_transactions": "Recherche par blocs / transactions / contrats",
   "current_tps": "TPS actuel",
@@ -632,5 +632,6 @@
   "l1_da_mode_block": "L1 DA mode for block",
   "resources_utilized_execute_transactions": "The total count of resources used in the block",
   "juno_starknet_client": "Juno Starknet Client",
-  "follow_us_to_x": "Follow us to X"
+  "follow_us_to_x": "Follow us to X",
+  "deployed_at_block": "The block when the contract was deployed"
 }
