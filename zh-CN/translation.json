@@ -635,5 +635,6 @@
   "l1_da_mode_block": "L1 DA mode for block",
   "resources_utilized_execute_transactions": "The total count of resources used in the block",
   "juno_starknet_client": "Juno Starknet Client",
-  "follow_us_to_x": "Follow us to X"
+  "follow_us_to_x": "Follow us to X",
+  "deployed_at_block": "The block when the contract was deployed"
 }
