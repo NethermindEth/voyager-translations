@@ -634,5 +634,6 @@
   "juno_starknet_client": "Juno Starknet Client",
   "follow_us_to_x": "Follow us to X",
   "deployed_at_block": "Deployed At",
-  "transaction_no_storage_diff_states": "This transaction does not have storage diffs"
+  "transaction_no_storage_diffs": "Unable to locate storage diffs for transaction",
+  "storage_diffs": "Storage Diffs"
 }
