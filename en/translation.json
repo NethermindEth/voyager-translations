@@ -634,6 +634,8 @@
   "juno_starknet_client": "Juno Starknet Client",
   "follow_us_to_x": "Follow us to X",
   "deployed_at_block": "Deployed At",
+  "transaction_no_storage_diffs": "Unable to locate storage diffs for transaction",
+  "storage_diffs": "Storage Diffs",
   "list_of_helpful_tools": "A list of helpful development tools",
   "felt_to_decimal": "Felt - Decimal",
   "felt_to_integer": "Felt - Integer",
