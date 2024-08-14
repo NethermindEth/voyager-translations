@@ -679,5 +679,7 @@
   "output_hex_low": "Output Hex Low",
   "output_hex_high": "Output Hex High",
   "output_dec_low": "Output Dec Low",
-  "output_dec_high": "Output Dec High"
+  "output_dec_high": "Output Dec High",
+  "request_name_tag": "Request name tag",
+  "name_tag": "Name tag"
 }
