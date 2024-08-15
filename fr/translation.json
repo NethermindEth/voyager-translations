@@ -634,7 +634,7 @@
   "juno_starknet_client": "Juno Starknet Client",
   "follow_us_to_x": "Follow us to X",
   "deployed_at_block": "Deployed At",
-  "transaction_no_storage_diffs": "Unable to locate storage diffs for transaction",
+  "transaction_unable_to_locate_storage_diffs": "Unable to locate storage diffs for transaction",
   "storage_diffs": "Storage Diffs",
   "decimal_to_felt": "Decimal - Felt",
   "list_of_helpful_tools": "A list of helpful development tools",
@@ -676,5 +676,6 @@
   "output_dec_low": "Output Dec Low",
   "output_dec_high": "Output Dec High",
   "request_name_tag": "Request name tag",
-  "name_tag": "Name tag"
+  "name_tag": "Name tag",
+  "transaction_no_storage_diffs": "This transaction has no storage diffs"
 }
