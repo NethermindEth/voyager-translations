@@ -37,7 +37,7 @@
   "search_by_blocks_transactions": "Tìm kiếm theo khối / giao dịch / hợp đồng",
   "current_tps": "Tps hiện tại",
   "estimated_queue_time": "Thời gian xếp hàng ước tính",
-  "transactions_in_queue": "Giao dịch trong hàng đợi",
+  "txs_in_queue": "Giao dịch trong hàng đợi",
   "queue_delay": "chậm trễ hàng đợi",
   "total": "Tổng",
   "daily": "Hàng ngày",
@@ -677,5 +677,9 @@
   "output_dec_high": "Output Dec High",
   "request_name_tag": "Request name tag",
   "name_tag": "Name tag",
-  "transaction_no_storage_diffs": "This transaction has no storage diffs"
+  "transaction_no_storage_diffs": "This transaction has no storage diffs",
+  "nft_transferred": "NFTs Transferred",
+  "nfts_that_were_transferred": "NFTs that were transferred in the transaction",
+  "nfts_in_contract": "Non Fungible Tokens on this contract",
+  "average_tx_fee": "Average tx fee"
 }

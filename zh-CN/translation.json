@@ -37,7 +37,7 @@
   "search_by_blocks_transactions": "按区块/交易/合约搜索",
   "current_tps": "当前的 tps",
   "estimated_queue_time": "预计排队时间",
-  "transactions_in_queue": "队列中的交易",
+  "txs_in_queue": "队列中的交易",
   "queue_delay": "队列延迟",
   "total": "总计",
   "daily": "每日",
@@ -680,5 +680,9 @@
   "output_dec_high": "Output Dec High",
   "request_name_tag": "Request name tag",
   "name_tag": "Name tag",
-  "transaction_no_storage_diffs": "This transaction has no storage diffs"
+  "transaction_no_storage_diffs": "This transaction has no storage diffs",
+  "nft_transferred": "NFTs Transferred",
+  "nfts_that_were_transferred": "NFTs that were transferred in the transaction",
+  "nfts_in_contract": "Non Fungible Tokens on this contract",
+  "average_tx_fee": "Average tx fee"
 }
