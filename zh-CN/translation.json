@@ -684,5 +684,6 @@
   "nft_transferred": "NFTs Transferred",
   "nfts_that_were_transferred": "NFTs that were transferred in the transaction",
   "nfts_in_contract": "Non Fungible Tokens on this contract",
-  "average_tx_fee": "Average tx fee"
+  "average_tx_fee": "Average tx fee",
+  "items": "Items"
 }
