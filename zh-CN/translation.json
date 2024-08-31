@@ -685,5 +685,18 @@
   "nfts_that_were_transferred": "NFTs that were transferred in the transaction",
   "nfts_in_contract": "Non Fungible Tokens on this contract",
   "average_tx_fee": "Average tx fee",
-  "items": "Items"
+  "items": "Items",
+  "portfolio": "Portfolio",
+  "item": "Item",
+  "verified_erc20_tokens": "A list of verified ERC20 tokens on this contract",
+  "showing_all_tokens": "A list of all ERC20 tokens on this contract",
+  "nfts_on_contract": "Non Fungible Tokens on this contract",
+  "collection": "collection",
+  "grid": "Grid",
+  "list": "List",
+  "no_token_balances_on_contract": "This contract does not have token balances",
+  "no_nfts_on_contract": "This contract does not have token balances",
+  "price": "Price",
+  "quantity": "Quantity",
+  "tx_hash": "TX HASH"
 }
