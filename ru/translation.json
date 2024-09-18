@@ -28,7 +28,6 @@
   "terms_of_use": "Условия использования",
   "privacy_policy": "Политика конфиденциальности",
   "nethermind_all_rights_reserved": "Nethermind. Все права защищены",
-  "asset_prices_provided_by": "Цены на активы предоставлены",
   "coingecko": "CoinGecko",
   "starknet_cli": "Старкнет CLI",
   "page_not_found": "Страница не найдена",
@@ -696,5 +695,6 @@
   "no_nfts_on_contract": "This contract does not have token balances",
   "price": "Price",
   "quantity": "Quantity",
-  "tx_hash": "TX HASH"
+  "tx_hash": "TX HASH",
+  "asset_prices_and_icons_powered_by": "Asset prices and icons powered by"
 }
