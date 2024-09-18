@@ -28,7 +28,6 @@
   "terms_of_use": "利用規約",
   "privacy_policy": "個人情報保護方針",
   "nethermind_all_rights_reserved": "Nethermind. 全著作権所有",
-  "asset_prices_provided_by": "資産価格提供者",
   "coingecko": "CoinGecko",
   "starknet_cli": "Starknet CLI",
   "page_not_found": "ページが見つかりません",
@@ -638,5 +637,6 @@
   "resources_utilized_execute_transactions": "The total count of resources used in the block",
   "juno_starknet_client": "Juno Starknet Client",
   "follow_us_to_x": "Follow us to X",
-  "deployed_at_block": "The block when the contract was deployed"
+  "deployed_at_block": "The block when the contract was deployed",
+  "asset_prices_and_icons_powered_by": "Asset prices and icons powered by"
 }

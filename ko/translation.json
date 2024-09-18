@@ -28,7 +28,6 @@
   "terms_of_use": "이용 약관",
   "privacy_policy": "개인 정보 보호 정책",
   "nethermind_all_rights_reserved": "Nethermind. All Rights Reserved",
-  "asset_prices_provided_by": "자산 가격 제공자",
   "coingecko": "CoinGecko",
   "starknet_cli": "스타크넷 CLI",
   "page_not_found": "페이지를 찾을 수 없습니다",
@@ -633,5 +632,6 @@
   "resources_utilized_execute_transactions": "The total count of resources used in the block",
   "juno_starknet_client": "Juno Starknet Client",
   "follow_us_to_x": "Follow us to X",
-  "deployed_at_block": "The block when the contract was deployed"
+  "deployed_at_block": "The block when the contract was deployed",
+  "asset_prices_and_icons_powered_by": "Asset prices and icons powered by"
 }
