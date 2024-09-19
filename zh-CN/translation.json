@@ -28,7 +28,6 @@
   "terms_of_use": "使用条款",
   "privacy_policy": "隐私政策",
   "nethermind_all_rights_reserved": "Nethermind，版权所有",
-  "asset_prices_provided_by": "资产价格提供方为",
   "coingecko": "币虎",
   "starknet_cli": "Starknet CLI",
   "page_not_found": "找不到网页",
@@ -699,5 +698,6 @@
   "no_nfts_on_contract": "This contract does not have token balances",
   "price": "Price",
   "quantity": "Quantity",
-  "tx_hash": "TX HASH"
+  "tx_hash": "TX HASH",
+  "asset_prices_and_icons_powered_by": "Asset prices and icons powered by"
 }
