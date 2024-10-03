@@ -695,9 +695,11 @@
   "grid": "Grid",
   "list": "List",
   "no_token_balances_on_contract": "This contract does not have token balances",
-  "no_nfts_on_contract": "This contract does not have token balances",
+  "no_nfts_on_contract": "This contract does not have NFTS",
   "price": "Price",
   "quantity": "Quantity",
   "tx_hash": "TX HASH",
+  "showing": "Showing",
+  "of": "of",
   "asset_prices_and_icons_powered_by": "Asset prices and icons powered by"
 }
