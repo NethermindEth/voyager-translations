@@ -723,9 +723,9 @@
   "nft_owner_address": "NFT owner address",
   "unable_to_locate_nft_contract": "Unable to locate NFT contract",
   "unable_to_locate_nft_activity": "Unable to locate NFT activity",
-  "no_activity_on_nft": "This NFT does not have any activity",
+  "no_activity_on_nft": "No activity found on NFT",
   "unable_to_locate_nft_holders": "Unable to locate NFT holders",
-  "no_holders_on_nft": "This NFT does not have any holders",
+  "no_holders_on_nft": "No holders found on NFT",
   "rank": "Rank",
   "holder_address": "Holder Address",
   "nft_colletion": "NFT Collection",
@@ -738,5 +738,10 @@
   "refresh_in": "Refresh in",
   "show_all_activity": "Show all activity",
   "verified_erc20_tokens_on_contract": "List of verified ERC20 tokens owned by this contract",
-  "all_erc20_tokens_on_contract": "List of all ERC20 tokens owned by this contract"
+  "all_erc20_tokens_on_contract": "List of all ERC20 tokens owned by this contract",
+  "unable_to_locate_nft_items": "Unable to locate NFT items",
+  "no_nft_on_collection": "No balances found on NFT collection",
+  "no_holders_on_collection": "No holders found on NFT collection",
+  "no_activity_on_collection": "No activity found on NFT collection",
+  "no_results_found": "No results found"
 }
