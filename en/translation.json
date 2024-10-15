@@ -739,5 +739,6 @@
   "no_activity_on_collection": "No activity found on NFT collection",
   "no_results_found": "No results found",
   "token_page": "Token page",
-  "nft_page": "NFT page"
+  "nft_page": "NFT page",
+  "last_refresh": "Last refresh"
 }
