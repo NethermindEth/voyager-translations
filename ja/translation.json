@@ -751,5 +751,8 @@
   "show_json": "Show JSON",
   "owned_by": "Owned by",
   "go_to": "Go to",
-  "strk_provisions": "Starknet Provisions"
+  "strk_provisions": "Starknet Provisions",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "important_transaction_warning": "Important Transaction Warning"
 }
