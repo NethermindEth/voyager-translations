@@ -754,5 +754,6 @@
   "strk_provisions": "Starknet Provisions",
   "confirm": "Confirm",
   "cancel": "Cancel",
-  "important_transaction_warning": "Important Transaction Warning"
+  "important_transaction_warning": "Important Transaction Warning",
+  "minter": "Minter"
 }
