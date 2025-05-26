@@ -549,6 +549,7 @@
   "accounts_growth_by_type": "Croissance des comptes par type",
   "active_accounts_by_type": "Comptes actifs par type",
   "active_accounts": "Comptes actifs",
+  "count_of_unique_accounts_yesterday": "Nombre de comptes uniques hier",
   "accounts_growth": "Croissance des comptes",
   "tvl_share": "Part de la TVL",
   "total_value_locked": "Valeur totale verrouillée",
