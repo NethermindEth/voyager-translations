@@ -756,5 +756,6 @@
   "confirm": "Confirm",
   "cancel": "Cancel",
   "important_transaction_warning": "Important Transaction Warning",
-  "minter": "Minter"
+  "minter": "Minter",
+  "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday"
 }
