@@ -757,5 +757,5 @@
   "cancel": "Cancel",
   "important_transaction_warning": "Important Transaction Warning",
   "minter": "Minter",
-  "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday"
+  "count_of_unique_accounts_yesterday": "昨天至少进行过一笔交易的唯一账户合约数量"
 }
