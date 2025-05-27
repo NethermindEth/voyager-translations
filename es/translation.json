@@ -470,7 +470,7 @@
   "time_between_pending_accepted": "Tiempo entre el estado pendiente de un bloque y 'Aceptado en L1' (promedio de 7 días)",
   "time_between_accepted_l1": "Tiempo entre cada bloque 'Aceptado en L1' (promedio de 7 días)",
   "time_between_accepted_l2": "Tiempo entre cada bloque 'Aceptado en L2' (promedio de 7 días)",
-  "accounts_created_today": "Contratos de cuentas creados hoy",
+  "accounts_created_yesterday": "Contratos de cuentas creados ayer",
   "number_sps_today": "Número de pasos de Cairo por segundo hoy",
   "number_spb_today": "Número de pasos de Cairo por bloque hoy",
   "total_cairo_steps": "Total de pasos de Cairo utilizados",
@@ -548,6 +548,8 @@
   "account_contracts_by_type": "Account Contracts by Type",
   "accounts_growth_by_type": "Accounts Growth by Type",
   "active_accounts_by_type": "Active Accounts by Type",
+  "active_accounts": "Cuentas activas",
+  "accounts_growth": "Crecimiento de cuentas",
   "tvl_share": "TVL Share",
   "total_value_locked": "Total Value Locked",
   "l1_txn_data": "L1 Transaction Data",
@@ -751,5 +753,6 @@
   "confirm": "Confirm",
   "cancel": "Cancel",
   "important_transaction_warning": "Important Transaction Warning",
-  "minter": "Minter"
+  "minter": "Minter",
+  "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday"
 }
