@@ -549,7 +549,6 @@
   "accounts_growth_by_type": "Croissance des comptes par type",
   "active_accounts_by_type": "Comptes actifs par type",
   "active_accounts": "Comptes actifs",
-  "count_of_unique_accounts_yesterday": "Nombre de comptes uniques hier",
   "accounts_growth": "Croissance des comptes",
   "tvl_share": "Part de la TVL",
   "total_value_locked": "Valeur totale verrouillée",
@@ -755,5 +754,7 @@
   "cancel": "Cancel",
   "important_transaction_warning": "Important Transaction Warning",
   "minter": "Minter",
-  "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday"
+  "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday",
+  "contract_not_meta_transactions": "This contract does not have execute from outside transactions",
+  "unable_locate_meta_transactions": "Unable to locate execute from outside transactions for address"
 }
