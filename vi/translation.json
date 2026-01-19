@@ -450,7 +450,7 @@
   "number_tps_last_block": "Số giao dịch mỗi giây trong khối gần nhất",
   "number_tpb_today": "Số giao dịch mỗi khối trong ngày hôm nay",
   "total_number_transactions": "Tổng số giao dịch",
-  "fee_usdc_transfer_average": "Phí chuyển USDC đến tài khoản Starknet (trung bình 7 ngày)",
+  "fee_erc20_transfer_average": "Phí chuyển ERC20 đến tài khoản Starknet (trung bình 7 ngày)",
   "fee_eth_transfer_average": "Phí chuyển ETH đến tài khoản Starknet (trung bình 7 ngày)",
   "fee_swap_asset_average": "Phí trao đổi tài sản trên Starknet (trung bình 7 ngày)",
   "fee_mint_nft_average": "Phí tạo NFT trên Starknet (trung bình 7 ngày)",

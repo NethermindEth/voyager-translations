@@ -450,7 +450,7 @@
   "number_tps_last_block": "마지막 블록의 초당 거래 수",
   "number_tpb_today": "오늘의 블록당 거래 수",
   "total_number_transactions": "총 거래 수",
-  "fee_usdc_transfer_average": "Starknet 계정으로 USDC 전송 수수료 (7일 평균)",
+  "fee_erc20_transfer_average": "Starknet 계정으로 ERC20 전송 수수료 (7일 평균)",
   "fee_eth_transfer_average": "Starknet 계정으로 ETH 전송 수수료 (7일 평균)",
   "fee_swap_asset_average": "Starknet에서 자산 스왑 수수료 (7일 평균)",
   "fee_mint_nft_average": "Starknet에서 NFT 발행 수수료 (7일 평균)",

@@ -450,7 +450,7 @@
   "number_tps_last_block": "Кількість транзакцій в секунд в останньому блоці",
   "number_tpb_today": "Кількість транзакцій в блоці сьогодні",
   "total_number_transactions": "Сумарна кількість транзакцій",
-  "fee_usdc_transfer_average": "Комісія за переказ USDC до Starknet-акаунту (середня за 7 діб)",
+  "fee_erc20_transfer_average": "Комісія за переказ ERC20 до Starknet-акаунту (середня за 7 діб)",
   "fee_eth_transfer_average": "Комісія за переказ ETH до Starknet-акаунту (середня за 7 діб)",
   "fee_swap_asset_average": "Комісія за обмін активів в Starknet (середня за 7 діб)",
   "fee_mint_nft_average": "Комісія за створення NFT в Starknet (середня за 7 діб)",

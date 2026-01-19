@@ -450,7 +450,7 @@
   "number_tps_last_block": "Número de transacciones por segundo en el último bloque",
   "number_tpb_today": "Número de transacciones por bloque hoy",
   "total_number_transactions": "Número total de transacciones",
-  "fee_usdc_transfer_average": "Tarifa por transferir USDC a una cuenta Starknet (promedio de 7 días)",
+  "fee_erc20_transfer_average": "Tarifa por transferir ERC20 a una cuenta Starknet (promedio de 7 días)",
   "fee_eth_transfer_average": "Tarifa por transferir ETH a una cuenta Starknet (promedio de 7 días)",
   "fee_swap_asset_average": "Tarifa por intercambiar activos en Starknet (promedio de 7 días)",
   "fee_mint_nft_average": "Tarifa por acuñar NFT en Starknet (promedio de 7 días)",
