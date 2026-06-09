@@ -408,7 +408,7 @@
   "this_contract_not_accountcalls": "このコントラクトにはアカウント呼び出しはありません",
   "execution_steps": "Execution steps",
   "steps_used_in_block": "Total n_steps used in the block",
-  "execution_resources": "Execution resources",
+  "execution_resources": "Execution Resources",
   "resources_utilized_execute_transaction": "Resources utilized to execute the transaction",
   "holder": "所有者",
   "token_holders": "トークン所有者",

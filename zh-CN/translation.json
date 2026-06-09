@@ -81,7 +81,7 @@
   "class_hash": "类哈希",
   "last_updated_block": "最后更新的区块",
   "list_of_contracts_starknet": "Starknet 上的合约清单",
-  "id": "Id",
+  "id": "ID",
   "name": "名称",
   "from": "从",
   "txn_hash": "交易哈希",
