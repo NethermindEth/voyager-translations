@@ -81,7 +81,7 @@
   "class_hash": "Хеш класу",
   "last_updated_block": "Останній оновлений блок",
   "list_of_contracts_starknet": "Список контрактів в Starknet",
-  "id": "Id",
+  "id": "ID",
   "name": "Ім'я",
   "from": "Від",
   "txn_hash": "Хеш транзакції",

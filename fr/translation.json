@@ -79,7 +79,7 @@
   "class_hash": "Hash de la classe",
   "last_updated_block": "Dernier bloc mis à jour",
   "list_of_contracts_starknet": "Une liste des contrats sur Starknet",
-  "id": "Id",
+  "id": "ID",
   "name": "Nom",
   "from": "De",
   "txn_hash": "Hash de la txn",
