@@ -416,6 +416,8 @@
   "holder": "Власник",
   "token_holders": "Власники токена",
   "token_holders_transfers": "Власники токенів / Перекази",
+  "token_holdings": "Утримання токенів",
+  "total_value": "Загальна вартість",
   "unable_to_locate_holders": "Власники токена відсутні",
   "this_token_no_holders": "Відсутні власники токена для відображення",
   "token_transfers": "Перекази токена",

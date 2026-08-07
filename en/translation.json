@@ -421,6 +421,8 @@
   "holder": "Holder",
   "token_holders": "Token Holders",
   "token_holders_transfers": "Token Holders / Transfers",
+  "token_holdings": "Token holdings",
+  "total_value": "Total value",
   "unable_to_locate_holders": "Unable to locate token holders",
   "this_token_no_holders": "No token holders to display",
   "token_transfers": "Token Transfers",

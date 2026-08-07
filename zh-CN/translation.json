@@ -416,6 +416,8 @@
   "holder": "持有者",
   "token_holders": "代币持有者",
   "token_holders_transfers": "代币持有者 / 转账",
+  "token_holdings": "代币持有",
+  "total_value": "总价值",
   "unable_to_locate_holders": "无法找到代币持有者",
   "this_token_no_holders": "没有可显示的代币持有者",
   "token_transfers": "代币转移",

@@ -413,6 +413,8 @@
   "holder": "所有者",
   "token_holders": "トークン所有者",
   "token_holders_transfers": "トークン保有者 / 送金",
+  "token_holdings": "トークン保有",
+  "total_value": "総価値",
   "unable_to_locate_holders": "トークン所有者が見つかりません",
   "this_token_no_holders": "表示するトークン所有者がありません",
   "token_transfers": "トークン転送",
