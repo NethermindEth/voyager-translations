@@ -760,5 +760,9 @@
   "minter": "Minter",
   "count_of_unique_accounts_yesterday": "Count of unique account contracts that made at least one transaction yesterday",
   "contract_not_meta_transactions": "This contract does not have execute from outside transactions",
-  "unable_locate_meta_transactions": "Unable to locate execute from outside transactions for address"
+  "unable_locate_meta_transactions": "Unable to locate execute from outside transactions for address",
+  "copy_as_json": "Sao chép dạng JSON",
+  "preparing": "Đang chuẩn bị…",
+  "copied": "Đã sao chép!",
+  "copy_failed": "Sao chép thất bại"
 }

@@ -763,5 +763,9 @@
   "minter": "Minter",
   "count_of_unique_accounts_yesterday": "昨天至少进行过一笔交易的唯一账户合约数量",
   "contract_not_meta_transactions": "This contract does not have execute from outside transactions",
-  "unable_locate_meta_transactions": "Unable to locate execute from outside transactions for address"
+  "unable_locate_meta_transactions": "Unable to locate execute from outside transactions for address",
+  "copy_as_json": "复制为 JSON",
+  "preparing": "准备中…",
+  "copied": "已复制！",
+  "copy_failed": "复制失败"
 }
