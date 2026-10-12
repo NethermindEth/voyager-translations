@@ -769,5 +769,10 @@
   "copy_as_json": "JSONとしてコピー",
   "preparing": "準備中…",
   "copied": "コピーしました！",
-  "copy_failed": "コピーに失敗しました"
+  "copy_failed": "コピーに失敗しました",
+  "l1_state_update_txn": "L1状態更新トランザクションハッシュ",
+  "l1_txn_sent_message": "メッセージを送信したL1トランザクション",
+  "l1_txn_consumed_message": "メッセージを消費したL1トランザクション",
+  "state_update_cleared_message": "メッセージを処理済みにしたL1上のStarknet状態更新",
+  "state_update_included_message": "メッセージを含むL1上のStarknet状態更新"
 }

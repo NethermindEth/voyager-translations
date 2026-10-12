@@ -764,5 +764,10 @@
   "copy_as_json": "Sao chép dạng JSON",
   "preparing": "Đang chuẩn bị…",
   "copied": "Đã sao chép!",
-  "copy_failed": "Sao chép thất bại"
+  "copy_failed": "Sao chép thất bại",
+  "l1_state_update_txn": "Băm giao dịch cập nhật trạng thái L1",
+  "l1_txn_sent_message": "Giao dịch L1 đã gửi tin nhắn",
+  "l1_txn_consumed_message": "Giao dịch L1 đã tiêu thụ tin nhắn",
+  "state_update_cleared_message": "Bản cập nhật trạng thái Starknet trên L1 đã xử lý tin nhắn",
+  "state_update_included_message": "Bản cập nhật trạng thái Starknet trên L1 đã bao gồm tin nhắn"
 }
