@@ -764,5 +764,10 @@
   "copy_as_json": "JSON으로 복사",
   "preparing": "준비 중…",
   "copied": "복사됨!",
-  "copy_failed": "복사 실패"
+  "copy_failed": "복사 실패",
+  "l1_state_update_txn": "L1 상태 업데이트 트랜잭션 해시",
+  "l1_txn_sent_message": "메시지를 보낸 L1 트랜잭션",
+  "l1_txn_consumed_message": "메시지를 소비한 L1 트랜잭션",
+  "state_update_cleared_message": "메시지를 처리 완료한 L1의 Starknet 상태 업데이트",
+  "state_update_included_message": "메시지를 포함한 L1의 Starknet 상태 업데이트"
 }

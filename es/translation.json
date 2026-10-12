@@ -764,5 +764,10 @@
   "copy_as_json": "Copiar como JSON",
   "preparing": "Preparando…",
   "copied": "¡Copiado!",
-  "copy_failed": "Error al copiar"
+  "copy_failed": "Error al copiar",
+  "l1_state_update_txn": "Hash de la transacción de actualización de estado L1",
+  "l1_txn_sent_message": "Transacción L1 que envió el mensaje",
+  "l1_txn_consumed_message": "Transacción L1 que consumió el mensaje",
+  "state_update_cleared_message": "Actualización de estado de Starknet en L1 que procesó el mensaje",
+  "state_update_included_message": "Actualización de estado de Starknet en L1 que incluyó el mensaje"
 }
